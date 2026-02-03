@@ -30,3 +30,16 @@ data/
 raw_data/
 outputs/
 predictions/
+# Python / notebooks
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Model artifacts / big binaries
+*.joblib
+*.pkl
+
