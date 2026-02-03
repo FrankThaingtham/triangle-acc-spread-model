@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac / OS
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Data (common — adjust if you want to track small sample data)
+data/
+raw_data/
+outputs/
+predictions/

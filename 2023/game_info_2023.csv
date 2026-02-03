@@ -1,0 +1,1371 @@
+game_id,game_day,home_team,away_team,home_score,away_score,is_conference,is_neutral,tournament
+401482897,"November 07, 2022",The Citadel Bulldogs,Clemson Tigers,69,80,False,False,
+401482906,"November 07, 2022",Jacksonville Dolphins,Duke Blue Devils,44,71,False,False,
+401482914,"November 07, 2022",Stetson Hatters,Florida State Seminoles,83,74,False,False,
+401482965,"November 07, 2022",UT Martin Skyhawks,Pittsburgh Panthers,58,80,False,False,
+401482929,"November 07, 2022",Lafayette Leopards,Miami Hurricanes,54,67,False,False,
+401488558,"November 07, 2022",Clayton State Lakers,Georgia Tech Yellow Jackets,63,93,False,False,
+401482889,"November 07, 2022",Cornell Big Red,Boston College Eagles,77,79,False,False,
+401482938,"November 07, 2022",Austin Peay Governors,NC State Wolfpack,50,99,False,False,
+401482974,"November 07, 2022",Lehigh Mountain Hawks,Syracuse Orange,72,90,False,False,
+401482999,"November 07, 2022",Fairfield Stags,Wake Forest Demon Deacons,59,71,False,False,
+401482947,"November 07, 2022",UNC Wilmington Seahawks,North Carolina Tar Heels,56,69,False,False,
+401482983,"November 07, 2022",North Carolina Central Eagles,Virginia Cavaliers,61,73,False,False,
+401482991,"November 07, 2022",Delaware State Hornets,Virginia Tech Hokies,57,95,False,False,
+401485295,"November 09, 2022",Bellarmine Knights,Louisville Cardinals,67,66,False,False,
+401482992,"November 10, 2022",Lehigh Mountain Hawks,Virginia Tech Hokies,52,78,False,False,
+401482955,"November 10, 2022",Radford Highlanders,Notre Dame Fighting Irish,76,79,False,False,
+401482890,"November 11, 2022",Detroit Mercy Titans,Boston College Eagles,66,70,False,False,
+401482907,"November 11, 2022",South Carolina Upstate Spartans,Duke Blue Devils,38,84,False,False,
+401482898,"November 11, 2022",Clemson Tigers,South Carolina Gamecocks,58,60,False,False,
+401482915,"November 11, 2022",Florida State Seminoles,UCF Knights,54,68,False,False,
+401482930,"November 11, 2022",UNC Greensboro Spartans,Miami Hurricanes,65,79,False,False,
+401482939,"November 11, 2022",Campbell Fighting Camels,NC State Wolfpack,67,73,False,False,
+401482948,"November 11, 2022",Charleston Cougars,North Carolina Tar Heels,86,102,False,False,
+401482966,"November 11, 2022",West Virginia Mountaineers,Pittsburgh Panthers,81,56,False,False,
+401483000,"November 11, 2022",Georgia Bulldogs,Wake Forest Demon Deacons,71,81,False,False,
+401482984,"November 11, 2022",Monmouth Hawks,Virginia Cavaliers,42,89,False,False,
+401488701,"November 12, 2022",Wright State Raiders,Louisville Cardinals,73,72,False,False,
+401482922,"November 12, 2022",Georgia Tech Yellow Jackets,Georgia State Panthers,59,57,False,False,
+401482956,"November 13, 2022",Youngstown State Penguins,Notre Dame Fighting Irish,81,88,False,False,
+401482993,"November 13, 2022",William & Mary Tribe,Virginia Tech Hokies,77,94,False,False,
+401482891,"November 14, 2022",Maine Black Bears,Boston College Eagles,69,64,False,False,
+401482916,"November 14, 2022",Troy Trojans,Florida State Seminoles,79,72,False,False,
+401488663,"November 15, 2022",App State Mountaineers,Louisville Cardinals,61,60,False,False,
+401482899,"November 15, 2022",South Carolina Upstate Spartans,Clemson Tigers,70,81,False,False,
+401482931,"November 15, 2022",Florida A&M Rattlers,Miami Hurricanes,61,87,False,False,
+401482975,"November 15, 2022",Colgate Raiders,Syracuse Orange,80,68,False,False,
+401483001,"November 15, 2022",Utah Valley Wolverines,Wake Forest Demon Deacons,65,68,False,False,
+401482949,"November 15, 2022",Gardner-Webb Runnin' Bulldogs,North Carolina Tar Heels,66,72,False,False,
+401482940,"November 15, 2022",Florida International Panthers,NC State Wolfpack,74,107,False,False,
+401482908,"November 15, 2022",Duke Blue Devils,Kansas Jayhawks,64,69,False,True,State Farm Champions Classic
+401482967,"November 16, 2022",Michigan Wolverines,Pittsburgh Panthers,91,60,False,True,Legends Classic
+401482957,"November 16, 2022",Southern Indiana Screaming Eagles,Notre Dame Fighting Irish,70,82,False,False,Gotham Classic - Campus Game
+401482994,"November 17, 2022",Old Dominion Monarchs,Virginia Tech Hokies,71,75,False,True,Shriners Children's Charleston Classic
+401486295,"November 17, 2022",Pittsburgh Panthers,VCU Rams,67,71,False,True,Legends Classic
+401482923,"November 17, 2022",Northern Illinois Huskies,Georgia Tech Yellow Jackets,50,68,False,False,Fort Myers Tip-Off - Campus Game
+401486298,"November 18, 2022",Penn State Nittany Lions,Virginia Tech Hokies,59,61,False,True,Shriners Children's Charleston Classic
+401483002,"November 18, 2022",La Salle Explorers,Wake Forest Demon Deacons,63,75,False,True,Jamaica Classic
+401482900,"November 18, 2022",Bellarmine Knights,Clemson Tigers,66,76,False,False,
+401482909,"November 18, 2022",Delaware Blue Hens,Duke Blue Devils,58,92,False,False,
+401482958,"November 18, 2022",Lipscomb Bisons,Notre Dame Fighting Irish,65,66,False,False,
+401482986,"November 18, 2022",Virginia Cavaliers,Baylor Bears,86,79,False,True,Main Event
+401482917,"November 18, 2022",Florida Gators,Florida State Seminoles,76,67,False,False,
+401482892,"November 18, 2022",Boston College Eagles,George Mason Patriots,71,56,False,True,Paradise Jam
+401482941,"November 19, 2022",Elon Phoenix,NC State Wolfpack,63,74,False,False,
+401482932,"November 19, 2022",Miami Hurricanes,Providence Friars,74,64,False,True,Basketball Hall of Fame Tip-Off
+401482976,"November 19, 2022",Northeastern Huskies,Syracuse Orange,48,76,False,False,
+401482950,"November 20, 2022",James Madison Dukes,North Carolina Tar Heels,64,80,False,False,
+401486451,"November 20, 2022",Miami Hurricanes,Maryland Terrapins,70,88,False,True,Basketball Hall of Fame Tip-Off presented by Lowe's
+401482968,"November 20, 2022",Alabama State Hornets,Pittsburgh Panthers,54,73,False,False,
+401486434,"November 20, 2022",Wake Forest Demon Deacons,Loyola Marymount Lions,75,77,False,True,Jamaica Classic
+401497570,"November 20, 2022",Illinois Fighting Illini,Virginia Cavaliers,61,70,False,True,Main Event
+401486304,"November 20, 2022",Virginia Tech Hokies,Charleston Cougars,75,77,False,False,Shriners Children's Charleston Classic
+401486446,"November 20, 2022",Tarleton State Texans,Boston College Eagles,70,54,False,True,Paradise Jam
+401486689,"November 21, 2022",Louisville Cardinals,Arkansas Razorbacks,54,80,False,True,Maui Jim Maui Invitational
+401486449,"November 21, 2022",Wyoming Cowboys,Boston College Eagles,48,59,False,True,Paradise Jam
+401482924,"November 21, 2022",Utah Utes,Georgia Tech Yellow Jackets,68,64,False,True,Fort Myers Tip-Off - Beach Division
+401482918,"November 21, 2022",Mercer Bears,Florida State Seminoles,72,81,False,False,
+401482901,"November 21, 2022",Loyola Maryland Greyhounds,Clemson Tigers,41,72,False,False,Emerald Coast Classic - Campus Game
+401482977,"November 21, 2022",Syracuse Orange,Richmond Spiders,74,71,False,True,Vivid Seats Empire Classic
+401482910,"November 21, 2022",Bellarmine Knights,Duke Blue Devils,57,74,False,False,
+401486693,"November 22, 2022",Texas Tech Red Raiders,Louisville Cardinals,70,38,False,True,Maui Jim Maui Invitational
+401482959,"November 22, 2022",Bowling Green Falcons,Notre Dame Fighting Irish,66,82,False,False,Gotham Classic - Campus Game
+401482969,"November 22, 2022",Fairleigh Dickinson Knights,Pittsburgh Panthers,61,83,False,False,
+401486676,"November 22, 2022",Syracuse Orange,St. John's Red Storm,69,76,False,True,Vivid Seats Empire Classic
+401482942,"November 23, 2022",NC State Wolfpack,Kansas Jayhawks,74,80,False,True,Bad Boy Mowers Battle 4 Atlantis
+401486310,"November 23, 2022",Marquette Golden Eagles,Georgia Tech Yellow Jackets,84,60,False,True,Fort Myers Tip-Off - Beach Division
+401482933,"November 23, 2022",St. Francis Brooklyn Terriers,Miami Hurricanes,56,79,False,False,
+401486697,"November 23, 2022",Louisville Cardinals,Cincinnati Bearcats,62,81,False,True,Maui Jim Maui Invitational
+401483003,"November 23, 2022",South Carolina State Bulldogs,Wake Forest Demon Deacons,74,105,False,False,
+401486728,"November 24, 2022",Florida State Seminoles,Siena Saints,63,80,False,True,ESPN Events Invitational
+401482951,"November 24, 2022",North Carolina Tar Heels,Portland Pilots,89,81,False,True,Phil Knight Invitational
+401482911,"November 24, 2022",Duke Blue Devils,Oregon State Beavers,54,51,False,True,Phil Knight Legacy
+401486718,"November 24, 2022",Dayton Flyers,NC State Wolfpack,64,76,False,True,Bad Boy Mowers Battle 4 Atlantis
+401486729,"November 25, 2022",Florida State Seminoles,Stanford Cardinal,60,70,False,True,ESPN Events Invitational
+401486746,"November 25, 2022",Duke Blue Devils,Xavier Musketeers,71,64,False,True,Phil Knight Legacy
+401482960,"November 25, 2022",Notre Dame Fighting Irish,St. Bonaventure Bonnies,51,63,False,True,Gotham Classic
+401486738,"November 25, 2022",North Carolina Tar Heels,Iowa State Cyclones,65,70,False,True,Phil Knight Invitational
+401482987,"November 25, 2022",Maryland Eastern Shore Hawks,Virginia Cavaliers,45,72,False,False,
+401482902,"November 25, 2022",Iowa Hawkeyes,Clemson Tigers,74,71,False,True,Emerald Coast Classic
+401482970,"November 25, 2022",William & Mary Tribe,Pittsburgh Panthers,64,80,False,False,
+401482995,"November 25, 2022",Charleston Southern Buccaneers,Virginia Tech Hokies,64,69,False,False,
+401486721,"November 25, 2022",Butler Bulldogs,NC State Wolfpack,61,76,False,True,Bad Boy Mowers Battle 4 Atlantis
+401483004,"November 26, 2022",Hampton Pirates,Wake Forest Demon Deacons,70,97,False,False,
+401482925,"November 26, 2022",North Alabama Lions,Georgia Tech Yellow Jackets,61,80,False,False,
+401482978,"November 26, 2022",Bryant Bulldogs,Syracuse Orange,73,72,False,False,
+401486408,"November 26, 2022",Clemson Tigers,California Golden Bears,67,59,False,True,Emerald Coast Classic
+401482893,"November 27, 2022",Rhode Island Rams,Boston College Eagles,49,53,False,False,
+401486744,"November 27, 2022",North Carolina Tar Heels,Alabama Crimson Tide,101,103,False,True,Phil Knight Invitational
+401486751,"November 27, 2022",Duke Blue Devils,Purdue Boilermakers,56,75,False,True,Phil Knight Legacy
+401482934,"November 27, 2022",Miami Hurricanes,UCF Knights,66,64,False,False,
+401486735,"November 27, 2022",Florida State Seminoles,Nebraska Cornhuskers,58,75,False,True,ESPN Events Invitational
+401479670,"November 28, 2022",Minnesota Golden Gophers,Virginia Tech Hokies,57,67,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479671,"November 28, 2022",Pittsburgh Panthers,Northwestern Wildcats,87,58,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479673,"November 29, 2022",Maryland Terrapins,Louisville Cardinals,79,54,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479674,"November 29, 2022",Penn State Nittany Lions,Clemson Tigers,94,101,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401482943,"November 29, 2022",William & Mary Tribe,NC State Wolfpack,64,85,False,False,
+401479672,"November 29, 2022",Syracuse Orange,Illinois Fighting Illini,44,73,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479676,"November 29, 2022",Wake Forest Demon Deacons,Wisconsin Badgers,78,75,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479677,"November 29, 2022",Georgia Tech Yellow Jackets,Iowa Hawkeyes,65,81,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479675,"November 29, 2022",Virginia Cavaliers,Michigan Wolverines,70,68,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479678,"November 30, 2022",Ohio State Buckeyes,Duke Blue Devils,72,81,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479679,"November 30, 2022",Purdue Boilermakers,Florida State Seminoles,79,69,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479680,"November 30, 2022",Rutgers Scarlet Knights,Miami Hurricanes,61,68,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479683,"November 30, 2022",Boston College Eagles,Nebraska Cornhuskers,67,88,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479681,"November 30, 2022",North Carolina Tar Heels,Indiana Hoosiers,65,77,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401479682,"November 30, 2022",Michigan State Spartans,Notre Dame Fighting Irish,52,70,False,False,ACC/Big Ten Challenge presented by Continental Tire
+401488388,"December 02, 2022",Pittsburgh Panthers,NC State Wolfpack,68,60,False,False,
+401488389,"December 02, 2022",Wake Forest Demon Deacons,Clemson Tigers,57,77,False,False,
+401482926,"December 02, 2022",Northeastern Huskies,Georgia Tech Yellow Jackets,63,81,False,False,
+401488391,"December 03, 2022",Syracuse Orange,Notre Dame Fighting Irish,62,61,False,False,
+401488390,"December 03, 2022",Florida State Seminoles,Virginia Cavaliers,57,62,False,False,
+401488392,"December 03, 2022",Boston College Eagles,Duke Blue Devils,59,75,False,False,
+401488394,"December 04, 2022",Miami Hurricanes,Louisville Cardinals,80,53,False,False,
+401488393,"December 04, 2022",North Carolina Tar Heels,Virginia Tech Hokies,72,80,False,False,
+401482979,"December 06, 2022",Oakland Golden Grizzlies,Syracuse Orange,66,95,False,False,
+401482894,"December 06, 2022",New Hampshire Wildcats,Boston College Eagles,74,71,False,False,
+401482927,"December 06, 2022",Georgia Bulldogs,Georgia Tech Yellow Jackets,77,79,False,False,
+401482944,"December 06, 2022",Coppin State Eagles,NC State Wolfpack,72,94,False,False,
+401482988,"December 06, 2022",James Madison Dukes,Virginia Cavaliers,50,55,False,False,
+401482912,"December 06, 2022",Iowa Hawkeyes,Duke Blue Devils,62,74,False,True,Jimmy V Classic presented by Corona
+401482935,"December 07, 2022",Cornell Big Red,Miami Hurricanes,105,107,False,False,
+401482961,"December 07, 2022",Boston University Terriers,Notre Dame Fighting Irish,75,81,False,False,
+401482996,"December 07, 2022",Dayton Flyers,Virginia Tech Hokies,49,77,False,False,
+401482903,"December 07, 2022",Towson Tigers,Clemson Tigers,75,80,False,False,
+401482971,"December 07, 2022",Pittsburgh Panthers,Vanderbilt Commodores,74,75,False,False,
+401482980,"December 10, 2022",Georgetown Hoyas,Syracuse Orange,64,83,False,False,
+401488396,"December 10, 2022",Louisville Cardinals,Florida State Seminoles,53,75,False,False,
+401483005,"December 10, 2022",Wake Forest Demon Deacons,LSU Tigers,70,72,False,True,Holiday Hoopsgiving
+401488397,"December 10, 2022",NC State Wolfpack,Miami Hurricanes,73,80,False,False,
+401488395,"December 10, 2022",Georgia Tech Yellow Jackets,North Carolina Tar Heels,59,75,False,False,
+401482972,"December 10, 2022",Sacred Heart Pioneers,Pittsburgh Panthers,66,91,False,False,
+401482895,"December 10, 2022",Boston College Eagles,Villanova Wildcats,56,77,False,True,Never Forget Tribute Classic
+401482913,"December 10, 2022",Maryland Eastern Shore Hawks,Duke Blue Devils,55,82,False,False,
+401482904,"December 10, 2022",Loyola Chicago Ramblers,Clemson Tigers,76,58,False,True,Holiday Hoopsgiving
+401482997,"December 11, 2022",Oklahoma State Cowboys,Virginia Tech Hokies,65,70,False,True,Basketball Hall of Fame Invitational
+401482962,"December 11, 2022",Marquette Golden Eagles,Notre Dame Fighting Irish,79,64,False,False,
+401482981,"December 12, 2022",Monmouth Hawks,Syracuse Orange,71,86,False,False,
+401482945,"December 13, 2022",Furman Paladins,NC State Wolfpack,73,92,False,False,
+401482896,"December 13, 2022",Stonehill Skyhawks,Boston College Eagles,56,63,False,False,
+401482952,"December 13, 2022",The Citadel Bulldogs,North Carolina Tar Heels,67,100,False,False,
+401482920,"December 13, 2022",South Carolina Upstate Spartans,Florida State Seminoles,63,80,False,False,
+401483006,"December 14, 2022",App State Mountaineers,Wake Forest Demon Deacons,66,67,False,False,
+401488664,"December 14, 2022",Western Kentucky Hilltoppers,Louisville Cardinals,83,94,False,False,
+401482936,"December 17, 2022",Saint Francis Red Flash,Miami Hurricanes,76,91,False,False,
+401483007,"December 17, 2022",Wake Forest Demon Deacons,Rutgers Scarlet Knights,57,81,False,False,
+401482973,"December 17, 2022",North Florida Ospreys,Pittsburgh Panthers,56,82,False,False,
+401482928,"December 17, 2022",Alabama State Hornets,Georgia Tech Yellow Jackets,60,96,False,False,
+401482989,"December 17, 2022",Houston Cougars,Virginia Cavaliers,69,61,False,False,
+401488665,"December 17, 2022",Florida A&M Rattlers,Louisville Cardinals,55,61,False,False,
+401482921,"December 17, 2022",St. John's Red Storm,Florida State Seminoles,93,79,False,True,Orange Bowl Classic
+401482953,"December 17, 2022",Ohio State Buckeyes,North Carolina Tar Heels,84,89,False,True,CBS Sports Classic
+401482982,"December 17, 2022",Cornell Big Red,Syracuse Orange,63,78,False,False,
+401482998,"December 17, 2022",Grambling Tigers,Virginia Tech Hokies,48,74,False,False,
+401482905,"December 17, 2022",Richmond Spiders,Clemson Tigers,57,85,False,True,Greenville Classic
+401482946,"December 17, 2022",NC State Wolfpack,Vanderbilt Commodores,70,66,False,True,Legends of Basketball Showcase
+401482963,"December 18, 2022",Notre Dame Fighting Irish,Georgia Bulldogs,62,77,False,True,Holiday Hoopsgiving
+401485351,"December 20, 2022",Lipscomb Bisons,Louisville Cardinals,75,67,False,False,
+401488398,"December 20, 2022",Duke Blue Devils,Wake Forest Demon Deacons,70,81,False,False,
+401488400,"December 20, 2022",Virginia Cavaliers,Miami Hurricanes,64,66,False,False,
+401488399,"December 20, 2022",Pittsburgh Panthers,Syracuse Orange,84,82,False,False,
+401488402,"December 21, 2022",Virginia Tech Hokies,Boston College Eagles,65,70,False,False,
+401482954,"December 21, 2022",Michigan Wolverines,North Carolina Tar Heels,76,80,False,True,Jumpman Invitational
+401488403,"December 21, 2022",Clemson Tigers,Georgia Tech Yellow Jackets,79,66,False,False,
+401488401,"December 21, 2022",Notre Dame Fighting Irish,Florida State Seminoles,72,73,False,False,
+401488365,"December 22, 2022",Louisville Cardinals,NC State Wolfpack,64,76,False,False,
+401482964,"December 27, 2022",Jacksonville Dolphins,Notre Dame Fighting Irish,43,59,False,False,
+401482990,"December 28, 2022",UAlbany Great Danes,Virginia Cavaliers,46,66,False,False,
+401500555,"December 30, 2022",North Carolina Tar Heels,Pittsburgh Panthers,74,76,False,False,
+401500554,"December 30, 2022",Miami Hurricanes,Notre Dame Fighting Irish,76,65,False,False,
+401500553,"December 30, 2022",NC State Wolfpack,Clemson Tigers,64,78,False,False,
+401483169,"December 31, 2022",Louisville Cardinals,Kentucky Wildcats,63,86,False,False,
+401488405,"December 31, 2022",Virginia Cavaliers,Georgia Tech Yellow Jackets,74,56,False,False,
+401488406,"December 31, 2022",Virginia Tech Hokies,Wake Forest Demon Deacons,75,77,False,False,
+401488404,"December 31, 2022",Florida State Seminoles,Duke Blue Devils,67,86,False,False,
+401500552,"December 31, 2022",Boston College Eagles,Syracuse Orange,65,79,False,False,
+401488407,"January 03, 2023",Syracuse Orange,Louisville Cardinals,70,69,False,False,
+401488408,"January 03, 2023",Notre Dame Fighting Irish,Boston College Eagles,63,70,False,False,
+401488409,"January 03, 2023",Virginia Cavaliers,Pittsburgh Panthers,65,68,False,False,
+401488411,"January 04, 2023",Duke Blue Devils,NC State Wolfpack,60,84,False,False,
+401488412,"January 04, 2023",Miami Hurricanes,Georgia Tech Yellow Jackets,70,76,False,False,
+401488410,"January 04, 2023",Clemson Tigers,Virginia Tech Hokies,68,65,False,False,
+401488413,"January 04, 2023",Wake Forest Demon Deacons,North Carolina Tar Heels,79,88,False,False,
+401488417,"January 07, 2023",Notre Dame Fighting Irish,North Carolina Tar Heels,64,81,False,False,
+401488415,"January 07, 2023",Duke Blue Devils,Boston College Eagles,65,64,False,False,
+401488416,"January 07, 2023",Georgia Tech Yellow Jackets,Florida State Seminoles,64,75,False,False,
+401488420,"January 07, 2023",Wake Forest Demon Deacons,Louisville Cardinals,80,72,False,False,
+401488414,"January 07, 2023",Clemson Tigers,Pittsburgh Panthers,75,74,False,False,
+401488419,"January 07, 2023",Syracuse Orange,Virginia Cavaliers,66,73,False,False,
+401488418,"January 07, 2023",NC State Wolfpack,Virginia Tech Hokies,73,69,False,False,
+401488422,"January 10, 2023",Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,72,73,False,False,
+401488421,"January 10, 2023",North Carolina Tar Heels,Virginia Cavaliers,58,65,False,False,
+401488423,"January 11, 2023",Boston College Eagles,Miami Hurricanes,72,88,False,False,
+401488426,"January 11, 2023",Pittsburgh Panthers,Duke Blue Devils,69,77,False,False,
+401488427,"January 11, 2023",Virginia Tech Hokies,Syracuse Orange,72,82,False,False,
+401488424,"January 11, 2023",Florida State Seminoles,Wake Forest Demon Deacons,75,90,False,False,
+401488425,"January 11, 2023",Louisville Cardinals,Clemson Tigers,70,83,False,False,
+401488429,"January 14, 2023",Miami Hurricanes,NC State Wolfpack,81,83,False,False,
+401488430,"January 14, 2023",North Carolina Tar Heels,Louisville Cardinals,80,59,False,False,
+401488432,"January 14, 2023",Pittsburgh Panthers,Georgia Tech Yellow Jackets,71,60,False,False,
+401488433,"January 14, 2023",Virginia Cavaliers,Florida State Seminoles,67,58,False,False,
+401488428,"January 14, 2023",Duke Blue Devils,Clemson Tigers,64,72,False,False,
+401488431,"January 14, 2023",Notre Dame Fighting Irish,Syracuse Orange,73,78,False,False,
+401488434,"January 14, 2023",Wake Forest Demon Deacons,Boston College Eagles,85,63,False,False,
+401488435,"January 16, 2023",Syracuse Orange,Miami Hurricanes,78,82,False,False,
+401488436,"January 17, 2023",Boston College Eagles,North Carolina Tar Heels,64,72,False,False,
+401488438,"January 17, 2023",Florida State Seminoles,Notre Dame Fighting Irish,84,71,False,False,
+401488439,"January 17, 2023",NC State Wolfpack,Georgia Tech Yellow Jackets,78,66,False,False,
+401488437,"January 17, 2023",Clemson Tigers,Wake Forest Demon Deacons,77,87,False,False,
+401488440,"January 18, 2023",Pittsburgh Panthers,Louisville Cardinals,75,54,False,False,
+401488441,"January 18, 2023",Virginia Tech Hokies,Virginia Cavaliers,68,78,False,False,
+401488444,"January 21, 2023",Miami Hurricanes,Duke Blue Devils,66,68,False,False,
+401488446,"January 21, 2023",Syracuse Orange,Georgia Tech Yellow Jackets,80,63,False,False,
+401488442,"January 21, 2023",Boston College Eagles,Notre Dame Fighting Irish,84,72,False,False,
+401488447,"January 21, 2023",Virginia Cavaliers,Wake Forest Demon Deacons,76,67,False,False,
+401488443,"January 21, 2023",Florida State Seminoles,Pittsburgh Panthers,71,64,False,False,
+401488445,"January 21, 2023",NC State Wolfpack,North Carolina Tar Heels,69,80,False,False,
+401488448,"January 21, 2023",Virginia Tech Hokies,Clemson Tigers,50,51,False,False,
+401488449,"January 23, 2023",Duke Blue Devils,Virginia Tech Hokies,75,78,False,False,
+401488450,"January 24, 2023",Miami Hurricanes,Florida State Seminoles,86,63,False,False,
+401488453,"January 24, 2023",Notre Dame Fighting Irish,NC State Wolfpack,82,85,False,False,
+401488451,"January 24, 2023",Georgia Tech Yellow Jackets,Clemson Tigers,51,72,False,False,
+401488452,"January 24, 2023",North Carolina Tar Heels,Syracuse Orange,72,68,False,False,
+401488455,"January 25, 2023",Wake Forest Demon Deacons,Pittsburgh Panthers,79,81,False,False,
+401488454,"January 25, 2023",Louisville Cardinals,Boston College Eagles,65,75,False,False,
+401488456,"January 28, 2023",Boston College Eagles,Virginia Cavaliers,57,76,False,False,
+401488459,"January 28, 2023",Louisville Cardinals,Notre Dame Fighting Irish,62,76,False,False,
+401488461,"January 28, 2023",NC State Wolfpack,Wake Forest Demon Deacons,79,77,False,False,
+401488458,"January 28, 2023",Duke Blue Devils,Georgia Tech Yellow Jackets,86,43,False,False,
+401488460,"January 28, 2023",Miami Hurricanes,Pittsburgh Panthers,68,71,False,False,
+401488457,"January 28, 2023",Clemson Tigers,Florida State Seminoles,82,81,False,False,
+401488462,"January 28, 2023",Syracuse Orange,Virginia Tech Hokies,70,85,False,False,
+401488463,"January 30, 2023",Virginia Cavaliers,Syracuse Orange,67,62,False,False,
+401488464,"January 31, 2023",Clemson Tigers,Boston College Eagles,54,62,False,False,
+401488465,"January 31, 2023",Wake Forest Demon Deacons,Duke Blue Devils,73,75,False,False,
+401488467,"January 31, 2023",Virginia Tech Hokies,Miami Hurricanes,83,92,False,False,
+401488468,"February 01, 2023",Georgia Tech Yellow Jackets,Louisville Cardinals,58,68,False,False,
+401488469,"February 01, 2023",Pittsburgh Panthers,North Carolina Tar Heels,65,64,False,False,
+401488466,"February 01, 2023",Florida State Seminoles,NC State Wolfpack,66,94,False,False,
+401488475,"February 04, 2023",Virginia Cavaliers,Virginia Tech Hokies,68,74,False,False,
+401488471,"February 04, 2023",Georgia Tech Yellow Jackets,NC State Wolfpack,64,72,False,False,
+401488476,"February 04, 2023",Wake Forest Demon Deacons,Notre Dame Fighting Irish,81,64,False,False,
+401488470,"February 04, 2023",Florida State Seminoles,Louisville Cardinals,81,78,False,False,
+401488472,"February 04, 2023",Miami Hurricanes,Clemson Tigers,78,74,False,False,
+401488474,"February 04, 2023",Syracuse Orange,Boston College Eagles,77,68,False,False,
+401488473,"February 04, 2023",North Carolina Tar Heels,Duke Blue Devils,57,63,False,False,
+401488477,"February 06, 2023",Duke Blue Devils,Miami Hurricanes,59,81,False,False,
+401488478,"February 07, 2023",Louisville Cardinals,Pittsburgh Panthers,57,91,False,False,
+401488479,"February 07, 2023",North Carolina Tar Heels,Wake Forest Demon Deacons,85,92,False,False,
+401488480,"February 07, 2023",NC State Wolfpack,Virginia Cavaliers,50,63,False,False,
+401488481,"February 08, 2023",Boston College Eagles,Virginia Tech Hokies,82,76,False,False,
+401488482,"February 08, 2023",Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,68,70,False,False,
+401488483,"February 08, 2023",Syracuse Orange,Florida State Seminoles,76,67,False,False,
+401488488,"February 11, 2023",NC State Wolfpack,Boston College Eagles,92,62,False,False,
+401488489,"February 11, 2023",Pittsburgh Panthers,Florida State Seminoles,83,75,False,False,
+401488490,"February 11, 2023",Virginia Tech Hokies,Notre Dame Fighting Irish,93,87,False,False,
+401488484,"February 11, 2023",Clemson Tigers,North Carolina Tar Heels,71,91,False,False,
+401488485,"February 11, 2023",Duke Blue Devils,Virginia Cavaliers,62,69,False,False,
+401488486,"February 11, 2023",Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,70,71,False,False,
+401488487,"February 11, 2023",Louisville Cardinals,Miami Hurricanes,85,93,False,False,
+401488491,"February 13, 2023",Miami Hurricanes,North Carolina Tar Heels,80,72,False,False,
+401488493,"February 14, 2023",Notre Dame Fighting Irish,Duke Blue Devils,64,68,False,False,
+401488494,"February 14, 2023",NC State Wolfpack,Syracuse Orange,72,75,False,False,
+401488492,"February 14, 2023",Boston College Eagles,Pittsburgh Panthers,58,77,False,False,
+401488495,"February 15, 2023",Florida State Seminoles,Clemson Tigers,54,94,False,False,
+401488496,"February 15, 2023",Virginia Cavaliers,Louisville Cardinals,61,58,False,False,
+401488497,"February 15, 2023",Virginia Tech Hokies,Georgia Tech Yellow Jackets,70,77,False,False,
+401488498,"February 18, 2023",Boston College Eagles,Florida State Seminoles,75,69,False,False,
+401488501,"February 18, 2023",Notre Dame Fighting Irish,Virginia Cavaliers,55,57,False,False,
+401488503,"February 18, 2023",Wake Forest Demon Deacons,Miami Hurricanes,87,96,False,False,
+401494705,"February 18, 2023",Florida Tech Panthers,Georgia Tech Yellow Jackets,56,79,False,False,
+401488502,"February 18, 2023",Pittsburgh Panthers,Virginia Tech Hokies,72,79,False,False,
+401488500,"February 18, 2023",Duke Blue Devils,Syracuse Orange,77,55,False,False,
+401488499,"February 18, 2023",Clemson Tigers,Louisville Cardinals,73,83,False,False,
+401488504,"February 19, 2023",North Carolina Tar Heels,NC State Wolfpack,69,77,False,False,
+401488505,"February 20, 2023",Louisville Cardinals,Duke Blue Devils,62,79,False,False,
+401488506,"February 21, 2023",Georgia Tech Yellow Jackets,Pittsburgh Panthers,68,76,False,False,
+401488507,"February 21, 2023",Miami Hurricanes,Virginia Tech Hokies,76,70,False,False,
+401488509,"February 22, 2023",Syracuse Orange,Clemson Tigers,73,91,False,False,
+401488510,"February 22, 2023",Virginia Cavaliers,Boston College Eagles,48,63,False,False,
+401488508,"February 22, 2023",North Carolina Tar Heels,Notre Dame Fighting Irish,63,59,False,False,
+401488511,"February 22, 2023",Wake Forest Demon Deacons,NC State Wolfpack,74,90,False,False,
+401488512,"February 25, 2023",Clemson Tigers,NC State Wolfpack,96,71,False,False,
+401488514,"February 25, 2023",Louisville Cardinals,Georgia Tech Yellow Jackets,67,83,False,False,
+401488513,"February 25, 2023",Florida State Seminoles,Miami Hurricanes,85,84,False,False,
+401488516,"February 25, 2023",Syracuse Orange,Pittsburgh Panthers,82,99,False,False,
+401488517,"February 25, 2023",Virginia Cavaliers,North Carolina Tar Heels,63,71,False,False,
+401488515,"February 25, 2023",Notre Dame Fighting Irish,Wake Forest Demon Deacons,58,66,False,False,
+401488518,"February 25, 2023",Virginia Tech Hokies,Duke Blue Devils,65,81,False,False,
+401488519,"February 27, 2023",North Carolina Tar Heels,Florida State Seminoles,77,66,False,False,
+401488520,"February 28, 2023",Boston College Eagles,Wake Forest Demon Deacons,71,69,False,False,
+401488521,"February 28, 2023",Clemson Tigers,Virginia Cavaliers,57,64,False,False,
+401488522,"February 28, 2023",Georgia Tech Yellow Jackets,Syracuse Orange,96,76,False,False,
+401488523,"February 28, 2023",NC State Wolfpack,Duke Blue Devils,67,71,False,False,
+401488524,"February 28, 2023",Virginia Tech Hokies,Louisville Cardinals,71,54,False,False,
+401488525,"March 01, 2023",Pittsburgh Panthers,Notre Dame Fighting Irish,81,88,False,False,
+401488529,"March 04, 2023",Louisville Cardinals,Virginia Cavaliers,60,75,False,False,
+401488528,"March 04, 2023",Georgia Tech Yellow Jackets,Boston College Eagles,73,65,False,False,
+401488527,"March 04, 2023",Florida State Seminoles,Virginia Tech Hokies,60,82,False,False,
+401488532,"March 04, 2023",Wake Forest Demon Deacons,Syracuse Orange,63,72,False,False,
+401488531,"March 04, 2023",Pittsburgh Panthers,Miami Hurricanes,76,78,False,False,
+401488526,"March 04, 2023",Duke Blue Devils,North Carolina Tar Heels,62,57,False,False,
+401488530,"March 04, 2023",Notre Dame Fighting Irish,Clemson Tigers,64,87,False,False,
+401514038,"March 07, 2023",Georgia Tech Yellow Jackets,Florida State Seminoles,61,60,False,True,New York Life ACC Tournament - 1st Round
+401514039,"March 07, 2023",Louisville Cardinals,Boston College Eagles,62,80,False,True,New York Life ACC Tournament - 1st Round
+401514040,"March 07, 2023",Notre Dame Fighting Irish,Virginia Tech Hokies,64,67,False,True,New York Life ACC Tournament - 1st Round
+401514041,"March 08, 2023",Wake Forest Demon Deacons,Syracuse Orange,77,74,False,True,New York Life ACC Tournament - 2nd Round
+401514042,"March 08, 2023",Georgia Tech Yellow Jackets,Pittsburgh Panthers,81,89,False,True,New York Life ACC Tournament - 2nd Round
+401514043,"March 08, 2023",Boston College Eagles,North Carolina Tar Heels,61,85,False,True,New York Life ACC Tournament - 2nd Round
+401514044,"March 08, 2023",Virginia Tech Hokies,NC State Wolfpack,77,97,False,True,New York Life ACC Tournament - 2nd Round
+401514045,"March 09, 2023",Wake Forest Demon Deacons,Miami Hurricanes,72,74,False,True,New York Life ACC Tournament - Quarterfinal
+401514046,"March 09, 2023",Pittsburgh Panthers,Duke Blue Devils,69,96,False,True,New York Life ACC Tournament - Quarterfinal
+401514047,"March 09, 2023",North Carolina Tar Heels,Virginia Cavaliers,59,68,False,True,New York Life ACC Tournament - Quarterfinal
+401514048,"March 09, 2023",NC State Wolfpack,Clemson Tigers,54,80,False,True,New York Life ACC Tournament - Quarterfinal
+401514049,"March 10, 2023",Duke Blue Devils,Miami Hurricanes,85,78,False,True,New York Life ACC Tournament - Semifinal
+401514210,"March 10, 2023",Clemson Tigers,Virginia Cavaliers,56,76,False,True,New York Life ACC Tournament - Semifinal
+401514211,"March 11, 2023",Duke Blue Devils,Virginia Cavaliers,59,49,False,True,New York Life ACC Tournament - Final
+401522116,"March 14, 2023",Pittsburgh Panthers,Mississippi State Bulldogs,60,59,False,True,Men's Basketball Championship - Midwest Region - First Four
+401526877,"March 15, 2023",Morehead State Eagles,Clemson Tigers,68,64,False,False,NIT - 1st Round
+401526882,"March 15, 2023",Virginia Tech Hokies,Cincinnati Bearcats,72,81,False,False,NIT - 1st Round
+401522130,"March 16, 2023",Furman Paladins,Virginia Cavaliers,68,67,False,True,Men's Basketball Championship - South Region - 1st Round
+401522128,"March 16, 2023",Oral Roberts Golden Eagles,Duke Blue Devils,51,74,False,True,Men's Basketball Championship - East Region - 1st Round
+401522157,"March 17, 2023",Pittsburgh Panthers,Iowa State Cyclones,59,41,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522152,"March 17, 2023",NC State Wolfpack,Creighton Bluejays,63,72,False,True,Men's Basketball Championship - South Region - 1st Round
+401522139,"March 17, 2023",Drake Bulldogs,Miami Hurricanes,56,63,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522166,"March 18, 2023",Duke Blue Devils,Tennessee Volunteers,52,65,False,True,Men's Basketball Championship - East Region - 2nd Round
+401522183,"March 19, 2023",Pittsburgh Panthers,Xavier Musketeers,73,84,False,True,Men's Basketball Championship - Midwest Region - 2nd Round
+401522173,"March 19, 2023",Miami Hurricanes,Indiana Hoosiers,85,69,False,True,Men's Basketball Championship - Midwest Region - 2nd Round
+401522195,"March 24, 2023",Miami Hurricanes,Houston Cougars,89,75,False,True,Men's Basketball Championship - Midwest Region - Sweet 16
+401522196,"March 26, 2023",Miami Hurricanes,Texas Longhorns,88,81,False,True,Men's Basketball Championship - Midwest Region - Elite 8
+401522201,"April 01, 2023",Miami Hurricanes,UConn Huskies,59,72,False,True,Men's Basketball Championship - Final Four
+401483365,"November 07, 2022",Purdue Fort Wayne Mastodons,Michigan Wolverines,56,75,False,False,
+401483344,"November 07, 2022",Morehead State Eagles,Indiana Hoosiers,53,88,False,False,
+401483352,"November 07, 2022",Bethune-Cookman Wildcats,Iowa Hawkeyes,58,89,False,False,
+401483357,"November 07, 2022",Niagara Purple Eagles,Maryland Terrapins,49,71,False,False,
+401483391,"November 07, 2022",Robert Morris Colonials,Ohio State Buckeyes,53,91,False,False,
+401483398,"November 07, 2022",Winthrop Eagles,Penn State Nittany Lions,68,93,False,False,
+401483411,"November 07, 2022",Columbia Lions,Rutgers Scarlet Knights,35,75,False,False,
+401484855,"November 07, 2022",Northern Arizona Lumberjacks,Michigan State Spartans,55,73,False,False,
+401483378,"November 07, 2022",Maine Black Bears,Nebraska Cornhuskers,66,79,False,False,
+401483383,"November 07, 2022",Chicago State Cougars,Northwestern Wildcats,54,85,False,False,
+401483420,"November 07, 2022",South Dakota Coyotes,Wisconsin Badgers,59,85,False,False,
+401483337,"November 07, 2022",Eastern Illinois Panthers,Illinois Fighting Illini,57,87,False,False,
+401483371,"November 07, 2022",Western Michigan Broncos,Minnesota Golden Gophers,60,61,False,False,
+401483405,"November 08, 2022",Milwaukee Panthers,Purdue Boilermakers,53,84,False,False,
+401483392,"November 10, 2022",Charleston Southern Buccaneers,Ohio State Buckeyes,56,82,False,False,
+401483358,"November 10, 2022",Western Carolina Catamounts,Maryland Terrapins,51,71,False,False,
+401483399,"November 10, 2022",Loyola Maryland Greyhounds,Penn State Nittany Lions,65,90,False,False,
+401483412,"November 10, 2022",Sacred Heart Pioneers,Rutgers Scarlet Knights,50,88,False,False,
+401483379,"November 10, 2022",Omaha Mavericks,Nebraska Cornhuskers,61,75,False,False,
+401483345,"November 10, 2022",Bethune-Cookman Wildcats,Indiana Hoosiers,49,101,False,False,
+401484527,"November 11, 2022",Michigan State Spartans,Gonzaga Bulldogs,63,64,False,True,Peraton Armed Forces Classic
+401483372,"November 11, 2022",St. Francis Brooklyn Terriers,Minnesota Golden Gophers,54,72,False,False,
+401483406,"November 11, 2022",Austin Peay Governors,Purdue Boilermakers,44,63,False,False,
+401483421,"November 11, 2022",Stanford Cardinal,Wisconsin Badgers,50,60,False,True,Brew City Battle
+401483353,"November 11, 2022",North Carolina A&T Aggies,Iowa Hawkeyes,71,112,False,False,
+401483384,"November 11, 2022",Northern Illinois Huskies,Northwestern Wildcats,46,63,False,False,
+401483338,"November 11, 2022",Kansas City Roos,Illinois Fighting Illini,48,86,False,False,
+401483366,"November 11, 2022",Eastern Michigan Eagles,Michigan Wolverines,83,88,False,True,
+401483413,"November 12, 2022",UMass Lowell River Hawks,Rutgers Scarlet Knights,65,73,False,False,
+401479695,"November 14, 2022",DePaul Blue Demons,Minnesota Golden Gophers,69,53,False,False,Gavitt Tipoff Games
+401479694,"November 14, 2022",Butler Bulldogs,Penn State Nittany Lions,62,68,False,False,Gavitt Tipoff Games
+401483339,"November 14, 2022",Monmouth Hawks,Illinois Fighting Illini,65,103,False,False,
+401479697,"November 15, 2022",Northwestern Wildcats,Georgetown Hoyas,75,63,False,False,Gavitt Tipoff Games
+401483165,"November 15, 2022",Kentucky Wildcats,Michigan State Spartans,77,86,False,True,State Farm Champions Classic
+401483359,"November 15, 2022",Binghamton Bearcats,Maryland Terrapins,52,76,False,False,
+401479696,"November 15, 2022",Marquette Golden Eagles,Purdue Boilermakers,70,75,False,False,Gavitt Tipoff Games
+401483422,"November 15, 2022",Green Bay Phoenix,Wisconsin Badgers,45,56,False,False,
+401483393,"November 16, 2022",Eastern Illinois Panthers,Ohio State Buckeyes,43,65,False,False,
+401479698,"November 16, 2022",Iowa Hawkeyes,Seton Hall Pirates,83,67,False,False,Gavitt Tipoff Games
+401483400,"November 17, 2022",Furman Paladins,Penn State Nittany Lions,68,73,False,True,Shriners Children's Charleston Classic
+401479699,"November 17, 2022",Nebraska Cornhuskers,St. John's Red Storm,50,70,False,False,Gavitt Tipoff Games
+401483373,"November 17, 2022",Central Michigan Chippewas,Minnesota Golden Gophers,60,68,False,False,
+401486296,"November 17, 2022",Michigan Wolverines,Arizona State Sun Devils,62,87,False,True,Legends Classic
+401483414,"November 18, 2022",Temple Owls,Rutgers Scarlet Knights,72,66,False,True,Basketball Hall of Fame Showcase
+401479700,"November 18, 2022",Indiana Hoosiers,Xavier Musketeers,81,79,False,False,Gavitt Tipoff Games
+401479701,"November 18, 2022",Villanova Wildcats,Michigan State Spartans,71,73,False,False,Gavitt Tipoff Games
+401483385,"November 18, 2022",Purdue Fort Wayne Mastodons,Northwestern Wildcats,52,60,False,False,Cancun Challenge - Campus Game
+401483340,"November 18, 2022",Illinois Fighting Illini,UCLA Bruins,79,70,False,True,Main Event
+401483360,"November 19, 2022",Saint Louis Billikens,Maryland Terrapins,67,95,False,True,Basketball Hall of Fame Tip-Off
+401483380,"November 20, 2022",Arkansas-Pine Bluff Golden Lions,Nebraska Cornhuskers,58,82,False,False,
+401483346,"November 20, 2022",Miami (OH) RedHawks,Indiana Hoosiers,56,86,False,True,Hoosier Tip-Off Classic
+401486305,"November 20, 2022",Penn State Nittany Lions,Colorado State Rams,68,56,False,True,Shriners Children's Charleston Classic
+401483367,"November 20, 2022",Ohio Bobcats,Michigan Wolverines,66,70,False,False,
+401483354,"November 21, 2022",Omaha Mavericks,Iowa Hawkeyes,64,100,False,False,Emerald Coast Classic - Campus Game
+401483394,"November 21, 2022",Ohio State Buckeyes,San Diego State Aztecs,77,88,False,True,Maui Jim Maui Invitational
+401483374,"November 21, 2022",California Baptist Lancers,Minnesota Golden Gophers,61,62,False,True,SoCal Challenge
+401486692,"November 22, 2022",Ohio State Buckeyes,Cincinnati Bearcats,81,53,False,True,Maui Jim Maui Invitational
+401483415,"November 22, 2022",Rider Broncs,Rutgers Scarlet Knights,46,76,False,False,
+401483386,"November 22, 2022",Liberty Flames,Northwestern Wildcats,52,66,False,True,Cancun Challenge - Riviera Division
+401483423,"November 23, 2022",Wisconsin Badgers,Dayton Flyers,43,42,False,True,Bad Boy Mowers Battle 4 Atlantis
+401486696,"November 23, 2022",Texas Tech Red Raiders,Ohio State Buckeyes,73,80,False,True,Maui Jim Maui Invitational
+401483347,"November 23, 2022",Little Rock Trojans,Indiana Hoosiers,68,87,False,False,Hoosier Tip-Off Classic
+401483368,"November 23, 2022",Jackson State Tigers,Michigan Wolverines,68,78,False,False,
+401486399,"November 23, 2022",Auburn Tigers,Northwestern Wildcats,43,42,False,True,Cancun Challenge - Riviera Division
+401486703,"November 23, 2022",Minnesota Golden Gophers,UNLV Rebels,62,71,False,True,SoCal Challenge
+401486720,"November 24, 2022",Wisconsin Badgers,Kansas Jayhawks,68,69,False,True,Bad Boy Mowers Battle 4 Atlantis
+401483294,"November 24, 2022",Oklahoma Sooners,Nebraska Cornhuskers,69,56,False,True,ESPN Events Invitational
+401483331,"November 24, 2022",Purdue Boilermakers,West Virginia Mountaineers,80,68,False,True,Phil Knight Legacy
+401484356,"November 24, 2022",Alabama Crimson Tide,Michigan State Spartans,81,70,False,True,Phil Knight Invitational
+401483348,"November 25, 2022",Jackson State Tigers,Indiana Hoosiers,51,90,False,False,Hoosier Tip-Off Classic
+401486724,"November 25, 2022",USC Trojans,Wisconsin Badgers,59,64,False,True,Bad Boy Mowers Battle 4 Atlantis
+401483361,"November 25, 2022",Coppin State Eagles,Maryland Terrapins,79,95,False,False,
+401486731,"November 25, 2022",Nebraska Cornhuskers,Memphis Tigers,61,73,False,True,ESPN Events Invitational
+401483401,"November 25, 2022",Lafayette Leopards,Penn State Nittany Lions,57,70,False,False,
+401483341,"November 25, 2022",Lindenwood Lions,Illinois Fighting Illini,59,92,False,False,
+401486748,"November 25, 2022",Purdue Boilermakers,Gonzaga Bulldogs,84,66,False,True,Phil Knight Legacy
+401486739,"November 25, 2022",Oregon Ducks,Michigan State Spartans,70,74,False,True,Phil Knight Invitational
+401483416,"November 26, 2022",Central Connecticut Blue Devils,Rutgers Scarlet Knights,49,83,False,False,
+401486409,"November 26, 2022",Iowa Hawkeyes,TCU Horned Frogs,66,79,False,True,Emerald Coast Classic
+401486742,"November 27, 2022",Portland Pilots,Michigan State Spartans,77,78,False,True,Phil Knight Invitational
+401484833,"December 02, 2022",Illinois Fighting Illini,Maryland Terrapins,66,71,False,False,
+401483395,"December 03, 2022",Saint Francis Red Flash,Ohio State Buckeyes,59,96,False,False,
+401484834,"December 03, 2022",Indiana Hoosiers,Rutgers Scarlet Knights,48,63,False,False,
+401483424,"December 03, 2022",Wisconsin Badgers,Marquette Golden Eagles,80,77,False,False,
+401483167,"December 04, 2022",Michigan Wolverines,Kentucky Wildcats,69,73,False,True,Basketball Hall of Fame London Showcase
+401483381,"December 04, 2022",Nebraska Cornhuskers,Creighton Bluejays,63,53,False,False,
+401484836,"December 04, 2022",Minnesota Golden Gophers,Purdue Boilermakers,70,89,False,False,
+401484835,"December 04, 2022",Northwestern Wildcats,Michigan State Spartans,70,63,False,False,
+401483313,"December 06, 2022",Illinois Fighting Illini,Texas Longhorns,85,78,False,True,Jimmy V Classic presented by Corona
+401484837,"December 06, 2022",Maryland Terrapins,Wisconsin Badgers,59,64,False,False,
+401484838,"December 07, 2022",Michigan State Spartans,Penn State Nittany Lions,67,58,False,False,
+401483407,"December 07, 2022",Hofstra Pride,Purdue Boilermakers,66,85,False,False,
+401484839,"December 07, 2022",Nebraska Cornhuskers,Indiana Hoosiers,65,81,False,False,
+401484841,"December 08, 2022",Rutgers Scarlet Knights,Ohio State Buckeyes,66,67,False,False,
+401483271,"December 08, 2022",Iowa State Cyclones,Iowa Hawkeyes,56,75,False,False,
+401484840,"December 08, 2022",Michigan Wolverines,Minnesota Golden Gophers,90,75,False,False,
+401484842,"December 10, 2022",Penn State Nittany Lions,Illinois Fighting Illini,74,59,False,False,
+401484843,"December 10, 2022",Purdue Boilermakers,Nebraska Cornhuskers,65,62,False,False,
+401484856,"December 10, 2022",Brown Bears,Michigan State Spartans,50,68,False,False,
+401483349,"December 10, 2022",Indiana Hoosiers,Arizona Wildcats,75,89,False,True,Las Vegas Clash
+401483387,"December 11, 2022",Prairie View A&M Panthers,Northwestern Wildcats,51,61,False,False,
+401483226,"December 11, 2022",Tennessee Volunteers,Maryland Terrapins,56,53,False,True,Basketball Hall of Fame Invitational
+401483417,"December 11, 2022",Seton Hall Pirates,Rutgers Scarlet Knights,45,43,False,False,Garden State Hardwood Classic
+401484844,"December 11, 2022",Wisconsin Badgers,Iowa Hawkeyes,78,75,False,False,
+401483192,"December 11, 2022",Mississippi State Bulldogs,Minnesota Golden Gophers,69,51,False,False,
+401483375,"December 14, 2022",Arkansas-Pine Bluff Golden Lions,Minnesota Golden Gophers,56,72,False,False,
+401483362,"December 14, 2022",UCLA Bruins,Maryland Terrapins,87,60,False,False,
+401483425,"December 15, 2022",Lehigh Mountain Hawks,Wisconsin Badgers,56,78,False,False,
+401483279,"December 17, 2022",Indiana Hoosiers,Kansas Jayhawks,62,84,False,False,
+401483388,"December 17, 2022",DePaul Blue Demons,Northwestern Wildcats,45,83,False,False,
+401483342,"December 17, 2022",Alabama A&M Bulldogs,Illinois Fighting Illini,47,68,False,False,
+401483369,"December 17, 2022",Lipscomb Bisons,Michigan Wolverines,75,83,False,False,
+401483408,"December 17, 2022",Davidson Wildcats,Purdue Boilermakers,61,69,False,True,Indy Classic
+401483288,"December 17, 2022",Nebraska Cornhuskers,Kansas State Wildcats,56,71,False,False,Wildcat Classic
+401483355,"December 17, 2022",Southeast Missouri State Redhawks,Iowa Hawkeyes,75,106,False,False,
+401483402,"December 18, 2022",Canisius Golden Griffins,Penn State Nittany Lions,67,97,False,False,
+401483350,"December 20, 2022",Elon Phoenix,Indiana Hoosiers,72,96,False,False,
+401483382,"December 20, 2022",Queens University Royals,Nebraska Cornhuskers,65,75,False,False,Battle in the Vault
+401483389,"December 20, 2022",UIC Flames,Northwestern Wildcats,54,92,False,False,
+401483356,"December 21, 2022",Eastern Illinois Panthers,Iowa Hawkeyes,92,83,False,False,
+401484857,"December 21, 2022",Oakland Golden Grizzlies,Michigan State Spartans,54,67,False,False,
+401483396,"December 21, 2022",Maine Black Bears,Ohio State Buckeyes,61,95,False,False,
+401483409,"December 21, 2022",New Orleans Privateers,Purdue Boilermakers,53,74,False,False,
+401483376,"December 22, 2022",Chicago State Cougars,Minnesota Golden Gophers,55,58,False,False,
+401483403,"December 22, 2022",Quinnipiac Bobcats,Penn State Nittany Lions,68,77,False,False,
+401483363,"December 22, 2022",Saint Peter's Peacocks,Maryland Terrapins,45,75,False,False,
+401483205,"December 22, 2022",Illinois Fighting Illini,Missouri Tigers,71,93,False,True,
+401483418,"December 23, 2022",Bucknell Bison,Rutgers Scarlet Knights,50,85,False,False,
+401483351,"December 23, 2022",Kennesaw State Owls,Indiana Hoosiers,55,69,False,False,
+401483390,"December 29, 2022",Brown Bears,Northwestern Wildcats,58,63,False,False,
+401483404,"December 29, 2022",Delaware State Hornets,Penn State Nittany Lions,46,60,False,False,
+401483397,"December 29, 2022",Alabama A&M Bulldogs,Ohio State Buckeyes,59,90,False,False,
+401483410,"December 29, 2022",Florida A&M Rattlers,Purdue Boilermakers,49,82,False,False,
+401483364,"December 29, 2022",UMBC Retrievers,Maryland Terrapins,64,80,False,False,
+401483370,"December 29, 2022",Central Michigan Chippewas,Michigan Wolverines,63,61,False,False,
+401484845,"December 29, 2022",Iowa Hawkeyes,Nebraska Cornhuskers,50,66,False,False,
+401483343,"December 29, 2022",Bethune-Cookman Wildcats,Illinois Fighting Illini,52,85,False,False,
+401484858,"December 30, 2022",Buffalo Bulls,Michigan State Spartans,68,89,False,False,
+401483419,"December 30, 2022",Coppin State Eagles,Rutgers Scarlet Knights,57,90,False,False,
+401483427,"December 30, 2022",Western Michigan Broncos,Wisconsin Badgers,66,76,False,False,
+401484846,"January 01, 2023",Maryland Terrapins,Michigan Wolverines,46,81,False,False,
+401484848,"January 01, 2023",Iowa Hawkeyes,Penn State Nittany Lions,79,83,False,False,
+401484847,"January 01, 2023",Ohio State Buckeyes,Northwestern Wildcats,73,57,False,False,
+401484849,"January 02, 2023",Rutgers Scarlet Knights,Purdue Boilermakers,65,64,False,False,
+401484870,"January 03, 2023",Nebraska Cornhuskers,Michigan State Spartans,56,74,False,False,
+401484871,"January 03, 2023",Minnesota Golden Gophers,Wisconsin Badgers,60,63,False,False,
+401484873,"January 04, 2023",Penn State Nittany Lions,Michigan Wolverines,69,79,False,False,
+401484872,"January 04, 2023",Illinois Fighting Illini,Northwestern Wildcats,60,73,False,False,
+401484876,"January 05, 2023",Maryland Terrapins,Rutgers Scarlet Knights,50,64,False,False,
+401484875,"January 05, 2023",Purdue Boilermakers,Ohio State Buckeyes,71,69,False,False,
+401484874,"January 05, 2023",Indiana Hoosiers,Iowa Hawkeyes,89,91,False,False,
+401484879,"January 07, 2023",Nebraska Cornhuskers,Minnesota Golden Gophers,81,79,False,False,
+401484877,"January 07, 2023",Wisconsin Badgers,Illinois Fighting Illini,69,79,False,False,
+401484878,"January 07, 2023",Michigan Wolverines,Michigan State Spartans,53,59,False,False,
+401484881,"January 08, 2023",Northwestern Wildcats,Indiana Hoosiers,84,83,False,False,
+401484882,"January 08, 2023",Iowa Hawkeyes,Rutgers Scarlet Knights,76,65,False,False,
+401484883,"January 08, 2023",Ohio State Buckeyes,Maryland Terrapins,73,80,False,False,
+401484880,"January 08, 2023",Purdue Boilermakers,Penn State Nittany Lions,76,63,False,False,
+401484885,"January 10, 2023",Michigan State Spartans,Wisconsin Badgers,69,65,False,False,
+401484884,"January 10, 2023",Illinois Fighting Illini,Nebraska Cornhuskers,76,50,False,False,
+401484887,"January 11, 2023",Indiana Hoosiers,Penn State Nittany Lions,66,85,False,False,
+401484886,"January 11, 2023",Rutgers Scarlet Knights,Northwestern Wildcats,65,62,False,False,
+401484889,"January 12, 2023",Minnesota Golden Gophers,Ohio State Buckeyes,70,67,False,False,
+401484888,"January 12, 2023",Michigan Wolverines,Iowa Hawkeyes,84,93,False,False,
+401484890,"January 13, 2023",Nebraska Cornhuskers,Purdue Boilermakers,55,73,False,False,
+401484891,"January 13, 2023",Michigan State Spartans,Illinois Fighting Illini,66,75,False,False,
+401484892,"January 14, 2023",Wisconsin Badgers,Indiana Hoosiers,45,63,False,False,
+401484893,"January 15, 2023",Northwestern Wildcats,Michigan Wolverines,78,85,False,False,
+401484894,"January 15, 2023",Ohio State Buckeyes,Rutgers Scarlet Knights,64,68,False,False,
+401484895,"January 15, 2023",Maryland Terrapins,Iowa Hawkeyes,67,81,False,False,
+401484897,"January 16, 2023",Purdue Boilermakers,Michigan State Spartans,64,63,False,False,
+401484896,"January 16, 2023",Illinois Fighting Illini,Minnesota Golden Gophers,78,60,False,False,
+401484898,"January 17, 2023",Penn State Nittany Lions,Wisconsin Badgers,60,63,False,False,
+401484900,"January 18, 2023",Ohio State Buckeyes,Nebraska Cornhuskers,60,63,False,False,
+401484903,"January 19, 2023",Rutgers Scarlet Knights,Michigan State Spartans,57,70,False,False,
+401484902,"January 19, 2023",Michigan Wolverines,Maryland Terrapins,58,64,False,False,
+401484904,"January 19, 2023",Purdue Boilermakers,Minnesota Golden Gophers,61,39,False,False,
+401484901,"January 19, 2023",Indiana Hoosiers,Illinois Fighting Illini,80,65,False,False,
+401484905,"January 21, 2023",Iowa Hawkeyes,Ohio State Buckeyes,77,93,False,False,
+401484906,"January 21, 2023",Nebraska Cornhuskers,Penn State Nittany Lions,65,76,False,False,
+401484908,"January 22, 2023",Michigan State Spartans,Indiana Hoosiers,69,82,False,False,
+401484909,"January 22, 2023",Maryland Terrapins,Purdue Boilermakers,55,58,False,False,
+401484910,"January 22, 2023",Minnesota Golden Gophers,Michigan Wolverines,56,60,False,False,
+401523790,"January 23, 2023",Wisconsin Badgers,Northwestern Wildcats,63,66,False,False,
+401484912,"January 24, 2023",Penn State Nittany Lions,Rutgers Scarlet Knights,45,65,False,False,
+401484911,"January 24, 2023",Ohio State Buckeyes,Illinois Fighting Illini,60,69,False,False,
+401484913,"January 25, 2023",Northwestern Wildcats,Nebraska Cornhuskers,78,63,False,False,
+401484914,"January 25, 2023",Wisconsin Badgers,Maryland Terrapins,55,73,False,False,
+401484915,"January 25, 2023",Indiana Hoosiers,Minnesota Golden Gophers,61,57,False,False,
+401484916,"January 26, 2023",Iowa Hawkeyes,Michigan State Spartans,61,63,False,False,
+401484917,"January 26, 2023",Purdue Boilermakers,Michigan Wolverines,75,70,False,False,
+401484920,"January 28, 2023",Minnesota Golden Gophers,Northwestern Wildcats,61,81,False,False,
+401484918,"January 28, 2023",Illinois Fighting Illini,Wisconsin Badgers,61,51,False,False,
+401484919,"January 28, 2023",Nebraska Cornhuskers,Maryland Terrapins,63,82,False,False,
+401484921,"January 28, 2023",Ohio State Buckeyes,Indiana Hoosiers,70,86,False,False,
+401484923,"January 29, 2023",Michigan Wolverines,Penn State Nittany Lions,61,83,False,False,
+401484924,"January 29, 2023",Michigan State Spartans,Purdue Boilermakers,61,77,False,False,
+401484922,"January 29, 2023",Rutgers Scarlet Knights,Iowa Hawkeyes,82,93,False,False,
+401484925,"January 31, 2023",Nebraska Cornhuskers,Illinois Fighting Illini,56,72,False,False,
+401484926,"January 31, 2023",Indiana Hoosiers,Maryland Terrapins,55,66,False,False,
+401522876,"January 31, 2023",Northwestern Wildcats,Iowa Hawkeyes,70,86,False,False,MAKEUP FROM JAN. 18
+401484928,"February 01, 2023",Penn State Nittany Lions,Purdue Boilermakers,60,80,False,False,
+401484927,"February 01, 2023",Minnesota Golden Gophers,Rutgers Scarlet Knights,55,90,False,False,
+401484929,"February 02, 2023",Michigan Wolverines,Northwestern Wildcats,68,51,False,False,
+401484930,"February 02, 2023",Wisconsin Badgers,Ohio State Buckeyes,65,60,False,False,
+401484931,"February 04, 2023",Michigan State Spartans,Rutgers Scarlet Knights,55,61,False,False,
+401484934,"February 04, 2023",Illinois Fighting Illini,Iowa Hawkeyes,79,81,False,False,
+401484932,"February 04, 2023",Purdue Boilermakers,Indiana Hoosiers,74,79,False,False,
+401484933,"February 04, 2023",Maryland Terrapins,Minnesota Golden Gophers,81,46,False,False,
+401484937,"February 05, 2023",Ohio State Buckeyes,Michigan Wolverines,69,77,False,False,
+401484935,"February 05, 2023",Penn State Nittany Lions,Nebraska Cornhuskers,63,72,False,False,
+401484936,"February 05, 2023",Northwestern Wildcats,Wisconsin Badgers,54,52,False,False,
+401484939,"February 07, 2023",Rutgers Scarlet Knights,Indiana Hoosiers,60,66,False,False,
+401484940,"February 07, 2023",Maryland Terrapins,Michigan State Spartans,58,63,False,False,
+401484942,"February 08, 2023",Nebraska Cornhuskers,Michigan Wolverines,72,93,False,False,
+401484941,"February 08, 2023",Wisconsin Badgers,Penn State Nittany Lions,79,74,False,False,
+401484944,"February 09, 2023",Iowa Hawkeyes,Purdue Boilermakers,73,87,False,False,
+401484943,"February 09, 2023",Northwestern Wildcats,Ohio State Buckeyes,69,63,False,False,
+401484946,"February 11, 2023",Penn State Nittany Lions,Maryland Terrapins,68,74,False,False,
+401484947,"February 11, 2023",Rutgers Scarlet Knights,Illinois Fighting Illini,60,69,False,False,
+401484948,"February 11, 2023",Wisconsin Badgers,Nebraska Cornhuskers,63,73,False,False,
+401484945,"February 11, 2023",Indiana Hoosiers,Michigan Wolverines,62,61,False,False,
+401484949,"February 12, 2023",Michigan State Spartans,Ohio State Buckeyes,62,41,False,False,
+401484950,"February 12, 2023",Iowa Hawkeyes,Minnesota Golden Gophers,68,56,False,False,
+401484951,"February 12, 2023",Purdue Boilermakers,Northwestern Wildcats,58,64,False,False,
+401484952,"February 14, 2023",Illinois Fighting Illini,Penn State Nittany Lions,81,93,False,False,
+401484954,"February 14, 2023",Nebraska Cornhuskers,Rutgers Scarlet Knights,82,72,False,False,
+401484953,"February 14, 2023",Michigan Wolverines,Wisconsin Badgers,59,64,False,False,
+401484955,"February 15, 2023",Indiana Hoosiers,Northwestern Wildcats,62,64,False,False,
+401484958,"February 16, 2023",Purdue Boilermakers,Maryland Terrapins,54,68,False,False,
+401484957,"February 16, 2023",Ohio State Buckeyes,Iowa Hawkeyes,75,92,False,False,
+401484959,"February 18, 2023",Illinois Fighting Illini,Indiana Hoosiers,68,71,False,False,
+401484962,"February 18, 2023",Rutgers Scarlet Knights,Wisconsin Badgers,58,57,False,False,
+401484960,"February 18, 2023",Michigan State Spartans,Michigan Wolverines,72,84,False,False,
+401484961,"February 18, 2023",Penn State Nittany Lions,Minnesota Golden Gophers,76,69,False,False,
+401484965,"February 19, 2023",Ohio State Buckeyes,Purdue Boilermakers,55,82,False,False,
+401484964,"February 19, 2023",Maryland Terrapins,Nebraska Cornhuskers,66,70,False,False,
+401484963,"February 19, 2023",Iowa Hawkeyes,Northwestern Wildcats,60,80,False,False,
+401526672,"February 20, 2023",Minnesota Golden Gophers,Illinois Fighting Illini,69,78,False,False,
+401484966,"February 21, 2023",Indiana Hoosiers,Michigan State Spartans,65,80,False,False,
+401484968,"February 22, 2023",Minnesota Golden Gophers,Maryland Terrapins,70,88,False,False,
+401484967,"February 22, 2023",Iowa Hawkeyes,Wisconsin Badgers,52,64,False,False,
+401484971,"February 23, 2023",Penn State Nittany Lions,Ohio State Buckeyes,75,71,False,False,
+401484970,"February 23, 2023",Michigan Wolverines,Rutgers Scarlet Knights,58,45,False,False,
+401484969,"February 23, 2023",Northwestern Wildcats,Illinois Fighting Illini,62,66,False,False,
+401484973,"February 25, 2023",Michigan State Spartans,Iowa Hawkeyes,106,112,False,False,
+401484974,"February 25, 2023",Minnesota Golden Gophers,Nebraska Cornhuskers,67,78,False,False,
+401484972,"February 25, 2023",Indiana Hoosiers,Purdue Boilermakers,79,71,False,False,
+401484975,"February 26, 2023",Northwestern Wildcats,Maryland Terrapins,59,75,False,False,
+401484976,"February 26, 2023",Illinois Fighting Illini,Ohio State Buckeyes,60,72,False,False,
+401484977,"February 26, 2023",Wisconsin Badgers,Michigan Wolverines,79,87,False,False,
+401484978,"February 26, 2023",Rutgers Scarlet Knights,Penn State Nittany Lions,59,56,False,False,
+401484979,"February 28, 2023",Iowa Hawkeyes,Indiana Hoosiers,90,68,False,False,
+401484980,"February 28, 2023",Michigan State Spartans,Nebraska Cornhuskers,80,67,False,False,
+401484981,"March 01, 2023",Maryland Terrapins,Ohio State Buckeyes,62,73,False,False,
+401484982,"March 01, 2023",Penn State Nittany Lions,Northwestern Wildcats,68,65,False,False,
+401484983,"March 02, 2023",Rutgers Scarlet Knights,Minnesota Golden Gophers,74,75,False,False,
+401484984,"March 02, 2023",Michigan Wolverines,Illinois Fighting Illini,87,91,False,False,
+401484985,"March 02, 2023",Purdue Boilermakers,Wisconsin Badgers,63,61,False,False,
+401484986,"March 04, 2023",Ohio State Buckeyes,Michigan State Spartans,78,84,False,False,
+401484987,"March 05, 2023",Maryland Terrapins,Penn State Nittany Lions,64,65,False,False,
+401484992,"March 05, 2023",Illinois Fighting Illini,Purdue Boilermakers,71,76,False,False,
+401484989,"March 05, 2023",Nebraska Cornhuskers,Iowa Hawkeyes,81,77,False,False,
+401484988,"March 05, 2023",Michigan Wolverines,Indiana Hoosiers,73,75,False,False,
+401484990,"March 05, 2023",Wisconsin Badgers,Minnesota Golden Gophers,71,67,False,False,
+401484991,"March 05, 2023",Northwestern Wildcats,Rutgers Scarlet Knights,65,53,False,False,
+401514414,"March 08, 2023",Ohio State Buckeyes,Wisconsin Badgers,65,57,False,True,Big Ten Tournament - 1st Round
+401514415,"March 08, 2023",Minnesota Golden Gophers,Nebraska Cornhuskers,78,75,False,True,Big Ten Tournament - 1st Round
+401514416,"March 09, 2023",Rutgers Scarlet Knights,Michigan Wolverines,62,50,False,True,Big Ten Tournament - 2nd Round
+401514417,"March 09, 2023",Ohio State Buckeyes,Iowa Hawkeyes,73,69,False,True,Big Ten Tournament - 2nd Round
+401514418,"March 09, 2023",Penn State Nittany Lions,Illinois Fighting Illini,79,76,False,True,Big Ten Tournament - 2nd Round
+401514419,"March 09, 2023",Minnesota Golden Gophers,Maryland Terrapins,54,70,False,True,Big Ten Tournament - 2nd Round
+401514420,"March 10, 2023",Rutgers Scarlet Knights,Purdue Boilermakers,65,70,False,True,Big Ten Tournament - Quarterfinal
+401514421,"March 10, 2023",Ohio State Buckeyes,Michigan State Spartans,68,58,False,True,Big Ten Tournament - Quarterfinal
+401514422,"March 10, 2023",Penn State Nittany Lions,Northwestern Wildcats,67,65,False,True,Big Ten Tournament - Quarterfinal
+401514423,"March 10, 2023",Maryland Terrapins,Indiana Hoosiers,60,70,False,True,Big Ten Tournament - Quarterfinal
+401514424,"March 11, 2023",Ohio State Buckeyes,Purdue Boilermakers,66,80,False,True,Big Ten Tournament - Semifinal
+401514425,"March 11, 2023",Penn State Nittany Lions,Indiana Hoosiers,77,73,False,True,Big Ten Tournament - Semifinal
+401514426,"March 12, 2023",Penn State Nittany Lions,Purdue Boilermakers,65,67,False,True,Big Ten Tournament - Final
+401526872,"March 14, 2023",Toledo Rockets,Michigan Wolverines,80,90,False,False,NIT - 1st Round
+401526876,"March 14, 2023",Hofstra Pride,Rutgers Scarlet Knights,88,86,False,False,NIT - 1st Round
+401526873,"March 14, 2023",Bradley Braves,Wisconsin Badgers,62,81,False,False,NIT - 1st Round
+401522122,"March 16, 2023",West Virginia Mountaineers,Maryland Terrapins,65,67,False,True,Men's Basketball Championship - South Region - 1st Round
+401522126,"March 16, 2023",Illinois Fighting Illini,Arkansas Razorbacks,63,73,False,True,Men's Basketball Championship - West Region - 1st Round
+401522120,"March 16, 2023",Auburn Tigers,Iowa Hawkeyes,83,75,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522133,"March 16, 2023",Boise State Broncos,Northwestern Wildcats,67,75,False,True,Men's Basketball Championship - West Region - 1st Round
+401522127,"March 16, 2023",Penn State Nittany Lions,Texas A&M Aggies,76,59,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522142,"March 17, 2023",USC Trojans,Michigan State Spartans,62,72,False,True,Men's Basketball Championship - East Region - 1st Round
+401522145,"March 17, 2023",Fairleigh Dickinson Knights,Purdue Boilermakers,63,58,False,True,Men's Basketball Championship - East Region - 1st Round
+401522138,"March 17, 2023",Kent State Golden Flashes,Indiana Hoosiers,60,71,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401526904,"March 18, 2023",Michigan Wolverines,Vanderbilt Commodores,65,66,False,False,NIT - 2nd Round
+401522165,"March 18, 2023",Penn State Nittany Lions,Texas Longhorns,66,71,False,True,Men's Basketball Championship - Midwest Region - 2nd Round
+401522169,"March 18, 2023",Northwestern Wildcats,UCLA Bruins,63,68,False,True,Men's Basketball Championship - West Region - 2nd Round
+401522159,"March 18, 2023",Maryland Terrapins,Alabama Crimson Tide,51,73,False,True,Men's Basketball Championship - South Region - 2nd Round
+401526913,"March 19, 2023",Liberty Flames,Wisconsin Badgers,71,75,False,False,NIT - 2nd Round
+401522175,"March 19, 2023",Michigan State Spartans,Marquette Golden Eagles,69,60,False,True,Men's Basketball Championship - East Region - 2nd Round
+401526916,"March 21, 2023",Wisconsin Badgers,Oregon Ducks,61,58,False,False,NIT - Quarterfinal
+401522191,"March 23, 2023",Michigan State Spartans,Kansas State Wildcats,93,98,False,True,Men's Basketball Championship - East Region - Sweet 16
+401526930,"March 28, 2023",Wisconsin Badgers,North Texas Mean Green,54,56,False,True,NIT - Semifinal
+401494401,"November 07, 2022",Howard Bison,Kentucky Wildcats,63,95,False,False,
+401483235,"November 07, 2022",Tennessee Tech Golden Eagles,Tennessee Volunteers,43,75,False,False,
+401489637,"November 07, 2022",Texas A&M-Corpus Christi Islanders,Mississippi State Bulldogs,44,63,False,False,
+401483030,"November 07, 2022",Stony Brook Seawolves,Florida Gators,45,81,False,False,
+401483039,"November 07, 2022",George Mason Patriots,Auburn Tigers,52,70,False,False,
+401483050,"November 07, 2022",Western Carolina Catamounts,Georgia Bulldogs,55,68,False,False,
+401483194,"November 07, 2022",Southern Indiana Screaming Eagles,Missouri Tigers,91,97,False,False,
+401483236,"November 07, 2022",UL Monroe Warhawks,Texas A&M Aggies,54,87,False,False,
+401483247,"November 07, 2022",Memphis Tigers,Vanderbilt Commodores,76,67,False,False,
+401489571,"November 07, 2022",North Dakota State Bison,Arkansas Razorbacks,58,76,False,False,
+401488380,"November 07, 2022",Longwood Lancers,Alabama Crimson Tide,54,75,False,False,
+401483206,"November 07, 2022",Alcorn State Braves,Ole Miss Rebels,58,73,False,False,
+401483216,"November 08, 2022",South Carolina State Bulldogs,South Carolina Gamecocks,77,80,False,False,
+401485461,"November 09, 2022",Kansas City Roos,LSU Tigers,63,74,False,False,
+401483031,"November 11, 2022",Kennesaw State Owls,Florida Gators,78,88,False,False,
+401483207,"November 11, 2022",Florida Atlantic Owls,Ole Miss Rebels,67,80,False,False,
+401483248,"November 11, 2022",Southern Miss Golden Eagles,Vanderbilt Commodores,60,48,False,False,
+401497509,"November 11, 2022",Duquesne Dukes,Kentucky Wildcats,52,77,False,False,
+401493700,"November 11, 2022",Mississippi State Bulldogs,Akron Zips,73,54,False,True,
+401483040,"November 11, 2022",South Florida Bulls,Auburn Tigers,59,67,False,False,
+401483195,"November 11, 2022",Pennsylvania Quakers,Missouri Tigers,85,92,False,False,
+401483237,"November 11, 2022",Abilene Christian Wildcats,Texas A&M Aggies,58,77,False,False,
+401485298,"November 11, 2022",Liberty Flames,Alabama Crimson Tide,59,95,False,False,
+401487626,"November 11, 2022",Fordham Rams,Arkansas Razorbacks,48,74,False,False,
+401485462,"November 12, 2022",Arkansas State Red Wolves,LSU Tigers,52,61,False,False,
+401483231,"November 13, 2022",Colorado Buffaloes,Tennessee Volunteers,78,66,False,True,
+401494404,"November 13, 2022",Arkansas-Pine Bluff Golden Lions,Mississippi State Bulldogs,47,80,False,False,
+401483196,"November 13, 2022",Lindenwood Lions,Missouri Tigers,53,82,False,False,
+401483032,"November 14, 2022",Florida Atlantic Owls,Florida Gators,76,74,False,False,
+401483051,"November 14, 2022",Miami (OH) RedHawks,Georgia Bulldogs,70,77,False,False,
+401483041,"November 15, 2022",Winthrop Eagles,Auburn Tigers,65,89,False,False,
+401483249,"November 15, 2022",Vanderbilt Commodores,Temple Owls,89,87,False,False,
+401483208,"November 15, 2022",Chattanooga Mocs,Ole Miss Rebels,58,70,False,False,
+401483197,"November 15, 2022",SIU Edwardsville Cougars,Missouri Tigers,80,105,False,False,
+401488381,"November 15, 2022",Alabama Crimson Tide,South Alabama Jaguars,65,55,False,False,
+401483232,"November 16, 2022",Florida Gulf Coast Eagles,Tennessee Volunteers,50,81,False,False,
+401496630,"November 16, 2022",South Dakota State Jackrabbits,Arkansas Razorbacks,56,71,False,False,
+401483238,"November 17, 2022",Murray State Racers,Texas A&M Aggies,88,79,False,True,Myrtle Beach Invitational
+401483217,"November 17, 2022",Colorado State Rams,South Carolina Gamecocks,85,53,False,True,Shriners Children's Charleston Classic
+401496876,"November 17, 2022",South Carolina State Bulldogs,Kentucky Wildcats,63,106,False,False,
+401485463,"November 17, 2022",New Orleans Privateers,LSU Tigers,62,91,False,False,
+401483190,"November 17, 2022",South Dakota Coyotes,Mississippi State Bulldogs,42,79,False,False,Fort Myers Tip-Off - Campus Game
+401486325,"November 18, 2022",Colorado Buffaloes,Texas A&M Aggies,103,75,False,True,Myrtle Beach Invitational
+401483052,"November 18, 2022",Bucknell Bison,Georgia Bulldogs,61,65,False,False,Sunshine Slam - Campus Game
+401483250,"November 18, 2022",Morehead State Eagles,Vanderbilt Commodores,43,76,False,False,
+401483209,"November 18, 2022",UT Martin Skyhawks,Ole Miss Rebels,68,72,False,False,
+401486301,"November 18, 2022",South Carolina Gamecocks,Davidson Wildcats,60,69,False,True,Shriners Children's Charleston Classic
+401483042,"November 18, 2022",Texas Southern Tigers,Auburn Tigers,56,72,False,False,
+401488382,"November 18, 2022",Jacksonville State Gamecocks,Alabama Crimson Tide,62,104,False,False,
+401486302,"November 20, 2022",Furman Paladins,South Carolina Gamecocks,79,60,False,True,Shriners Children's Charleston Classic
+401486340,"November 20, 2022",Texas A&M Aggies,Loyola Chicago Ramblers,67,51,False,True,Myrtle Beach Invitational
+401483198,"November 20, 2022",Mississippi Valley State Delta Devils,Missouri Tigers,62,83,False,False,
+401497506,"November 20, 2022",Kentucky Wildcats,Gonzaga Bulldogs,72,88,False,False,
+401485464,"November 21, 2022",Illinois State Redbirds,LSU Tigers,61,77,False,True,Cayman Islands Classic
+401483053,"November 21, 2022",Georgia Bulldogs,Saint Joseph's Hawks,66,53,False,True,Sunshine Slam
+401483191,"November 21, 2022",Marquette Golden Eagles,Mississippi State Bulldogs,55,58,False,True,Fort Myers Tip-Off - Beach Division
+401486459,"November 22, 2022",LSU Tigers,Akron Zips,73,58,False,True,Cayman Islands Classic
+401486713,"November 22, 2022",Georgia Bulldogs,UAB Blazers,73,87,False,True,Sunshine Slam
+401483043,"November 22, 2022",Bradley Braves,Auburn Tigers,64,85,False,True,Cancun Challenge - Riviera Division
+401486690,"November 22, 2022",Creighton Bluejays,Arkansas Razorbacks,90,87,False,True,Maui Jim Maui Invitational
+401497591,"November 23, 2022",North Florida Ospreys,Kentucky Wildcats,56,96,False,False,
+401483199,"November 23, 2022",Coastal Carolina Chanticleers,Missouri Tigers,51,89,False,False,
+401483233,"November 23, 2022",Butler Bulldogs,Tennessee Volunteers,45,71,False,True,Bad Boy Mowers Battle 4 Atlantis
+401486464,"November 23, 2022",LSU Tigers,Kansas State Wildcats,59,61,False,True,Cayman Islands Classic
+401486311,"November 23, 2022",Utah Utes,Mississippi State Bulldogs,49,52,False,True,Fort Myers Tip-Off - Beach Division
+401486695,"November 23, 2022",Arkansas Razorbacks,San Diego State Aztecs,78,74,False,True,Maui Jim Maui Invitational
+401483251,"November 23, 2022",Saint Mary's Gaels,Vanderbilt Commodores,75,65,False,True,Paycom Wooden Legacy
+401483210,"November 24, 2022",Ole Miss Rebels,Stanford Cardinal,72,68,False,True,ESPN Events Invitational
+401486719,"November 24, 2022",Tennessee Volunteers,USC Trojans,73,66,False,True,Bad Boy Mowers Battle 4 Atlantis
+401483033,"November 24, 2022",Florida Gators,Xavier Musketeers,83,90,False,True,Phil Knight Legacy
+401486726,"November 24, 2022",Fresno State Bulldogs,Vanderbilt Commodores,59,67,False,True,Paycom Wooden Legacy
+401486730,"November 25, 2022",Siena Saints,Ole Miss Rebels,62,74,False,True,ESPN Events Invitational
+401483239,"November 25, 2022",Texas A&M Aggies,DePaul Blue Demons,82,66,False,False,
+401483218,"November 25, 2022",South Carolina Upstate Spartans,South Carolina Gamecocks,53,68,False,False,
+401486745,"November 25, 2022",Oregon State Beavers,Florida Gators,68,81,False,True,Phil Knight Legacy
+401486722,"November 25, 2022",Tennessee Volunteers,Kansas Jayhawks,64,50,False,True,Bad Boy Mowers Battle 4 Atlantis
+401486740,"November 25, 2022",UConn Huskies,Alabama Crimson Tide,82,67,False,True,Phil Knight Invitational
+401483200,"November 26, 2022",Houston Christian Huskies,Missouri Tigers,69,105,False,False,
+401483054,"November 27, 2022",East Tennessee State Buccaneers,Georgia Bulldogs,47,62,False,False,
+401486734,"November 27, 2022",Ole Miss Rebels,Oklahoma Sooners,55,59,False,True,ESPN Events Invitational
+401483044,"November 27, 2022",Saint Louis Billikens,Auburn Tigers,60,65,False,False,
+401485465,"November 27, 2022",Wofford Terriers,LSU Tigers,75,78,False,False,
+401486750,"November 27, 2022",Florida Gators,West Virginia Mountaineers,55,84,False,True,Phil Knight Legacy
+401489566,"November 28, 2022",Omaha Mavericks,Mississippi State Bulldogs,54,74,False,False,
+401493952,"November 28, 2022",Troy Trojans,Arkansas Razorbacks,61,74,False,False,
+401483166,"November 29, 2022",Bellarmine Knights,Kentucky Wildcats,41,60,False,False,
+401483201,"November 29, 2022",Missouri Tigers,Wichita State Shockers,88,84,False,False,
+401483055,"November 30, 2022",Hampton Pirates,Georgia Bulldogs,54,73,False,False,
+401483252,"November 30, 2022",Vanderbilt Commodores,VCU Rams,65,70,False,False,
+401483234,"November 30, 2022",McNeese Cowboys,Tennessee Volunteers,40,76,False,False,
+401483034,"November 30, 2022",Florida A&M Rattlers,Florida Gators,62,102,False,False,
+401483240,"November 30, 2022",SMU Mustangs,Texas A&M Aggies,64,83,False,False,
+401483219,"November 30, 2022",South Carolina Gamecocks,George Washington Revolutionaries,55,79,False,False,
+401483056,"December 02, 2022",Florida A&M Rattlers,Georgia Bulldogs,46,68,False,False,
+401483045,"December 02, 2022",Colgate Raiders,Auburn Tigers,66,93,False,False,
+401485466,"December 02, 2022",UT Arlington Mavericks,LSU Tigers,59,63,False,False,
+401483220,"December 03, 2022",South Carolina Gamecocks,Georgetown Hoyas,74,71,False,False,
+401493722,"December 03, 2022",Mississippi Valley State Delta Devils,Mississippi State Bulldogs,52,82,False,False,
+401494410,"December 03, 2022",San José State Spartans,Arkansas Razorbacks,58,99,False,False,
+401483253,"December 03, 2022",Wofford Terriers,Vanderbilt Commodores,62,65,False,False,
+401483241,"December 03, 2022",Boise State Broncos,Texas A&M Aggies,86,71,False,True,The Battleground 2k22 Presented by Basketball University
+401483211,"December 03, 2022",Ole Miss Rebels,Memphis Tigers,57,68,False,False,
+401488383,"December 03, 2022",South Dakota State Jackrabbits,Alabama Crimson Tide,65,78,False,False,
+401483035,"December 04, 2022",Stetson Hatters,Florida Gators,51,89,False,False,
+401483202,"December 04, 2022",Southeast Missouri State Redhawks,Missouri Tigers,89,96,False,False,
+401483229,"December 04, 2022",Alcorn State Braves,Tennessee Volunteers,40,94,False,False,
+401489667,"December 06, 2022",UNC Greensboro Spartans,Arkansas Razorbacks,58,65,False,False,
+401483230,"December 07, 2022",Eastern Kentucky Colonels,Tennessee Volunteers,49,84,False,False,
+401483036,"December 07, 2022",UConn Huskies,Florida Gators,75,54,False,False,
+401483254,"December 09, 2022",Grambling Tigers,Vanderbilt Commodores,64,62,False,False,
+401483296,"December 10, 2022",Oklahoma Sooners,Arkansas Razorbacks,78,88,False,True,
+401487477,"December 10, 2022",Yale Bulldogs,Kentucky Wildcats,59,69,False,False,
+401483212,"December 10, 2022",Valparaiso Beacons,Ole Miss Rebels,61,98,False,False,
+401488384,"December 10, 2022",Alabama Crimson Tide,Houston Cougars,71,65,False,False,
+401483046,"December 10, 2022",Auburn Tigers,Memphis Tigers,73,82,False,True,Holiday Hoopsgiving
+401483203,"December 10, 2022",Kansas Jayhawks,Missouri Tigers,95,67,False,False,
+401483221,"December 11, 2022",Presbyterian Blue Hose,South Carolina Gamecocks,57,68,False,False,
+401483242,"December 11, 2022",Oregon State Beavers,Texas A&M Aggies,54,72,False,False,
+401485467,"December 13, 2022",North Carolina Central Eagles,LSU Tigers,57,67,False,False,
+401488385,"December 13, 2022",Memphis Tigers,Alabama Crimson Tide,88,91,False,False,
+401483037,"December 14, 2022",Ohio Bobcats,Florida Gators,48,82,False,True,
+401483222,"December 14, 2022",South Carolina Gamecocks,UAB Blazers,70,84,False,False,
+401483213,"December 14, 2022",UCF Knights,Ole Miss Rebels,72,61,False,False,
+401497892,"December 14, 2022",Mississippi State Bulldogs,Jackson State Tigers,69,59,False,True,
+401483047,"December 14, 2022",Georgia State Panthers,Auburn Tigers,64,72,False,False,
+401483204,"December 17, 2022",Missouri Tigers,UCF Knights,68,66,False,True,Orange Bowl Classic
+401488386,"December 17, 2022",Gonzaga Bulldogs,Alabama Crimson Tide,100,90,False,True,C.M. Newton Classic
+401483223,"December 17, 2022",East Carolina Pirates,South Carolina Gamecocks,64,56,False,True,Greenville Classic
+401494405,"December 17, 2022",Nicholls Colonels,Mississippi State Bulldogs,66,68,False,False,
+401489009,"December 17, 2022",Bradley Braves,Arkansas Razorbacks,57,76,False,False,
+401483214,"December 17, 2022",Temple Owls,Ole Miss Rebels,55,63,False,False,
+401483168,"December 17, 2022",UCLA Bruins,Kentucky Wildcats,63,53,False,True,CBS Sports Classic
+401483243,"December 17, 2022",Texas A&M Aggies,Memphis Tigers,79,83,False,False,
+401485468,"December 17, 2022",Winthrop Eagles,LSU Tigers,81,89,False,False,
+401483227,"December 17, 2022",Tennessee Volunteers,Arizona Wildcats,70,75,False,False,
+401483048,"December 18, 2022",Auburn Tigers,USC Trojans,71,74,False,False,
+401483244,"December 20, 2022",Wofford Terriers,Texas A&M Aggies,67,62,False,False,
+401483215,"December 20, 2022",North Alabama Lions,Ole Miss Rebels,66,65,False,False,
+401483193,"December 20, 2022",Mississippi State Bulldogs,Drake Bulldogs,52,58,False,True,Battle in the Vault
+401488387,"December 20, 2022",Jackson State Tigers,Alabama Crimson Tide,64,84,False,False,
+401483038,"December 20, 2022",Florida Gators,Oklahoma Sooners,53,62,False,True,Jumpman Invitational
+401483057,"December 21, 2022",Chattanooga Mocs,Georgia Bulldogs,65,72,False,False,
+401483228,"December 21, 2022",Austin Peay Governors,Tennessee Volunteers,44,86,False,False,
+401494402,"December 21, 2022",Florida A&M Rattlers,Kentucky Wildcats,68,88,False,False,
+401485469,"December 21, 2022",East Tennessee State Buccaneers,LSU Tigers,68,72,False,False,
+401483049,"December 21, 2022",Auburn Tigers,Washington Huskies,84,61,False,False,
+401491747,"December 21, 2022",UNC Asheville Bulldogs,Arkansas Razorbacks,51,85,False,False,
+401483255,"December 22, 2022",Alabama A&M Bulldogs,Vanderbilt Commodores,62,70,False,False,
+401483224,"December 22, 2022",Western Kentucky Hilltoppers,South Carolina Gamecocks,58,65,False,False,
+401483245,"December 27, 2022",Northwestern State Demons,Texas A&M Aggies,52,64,False,False,
+401484531,"December 28, 2022",Tennessee Volunteers,Ole Miss Rebels,63,59,False,False,
+401483058,"December 28, 2022",Rider Broncs,Georgia Bulldogs,72,78,False,False,
+401484528,"December 28, 2022",Kentucky Wildcats,Missouri Tigers,75,89,False,False,
+401484529,"December 28, 2022",Florida Gators,Auburn Tigers,58,61,False,False,
+401484530,"December 28, 2022",Arkansas Razorbacks,LSU Tigers,57,60,False,False,
+401484532,"December 28, 2022",Alabama Crimson Tide,Mississippi State Bulldogs,78,67,False,False,
+401483225,"December 30, 2022",Eastern Michigan Eagles,South Carolina Gamecocks,64,74,False,False,
+401483246,"December 30, 2022",Prairie View A&M Panthers,Texas A&M Aggies,66,86,False,False,
+401483256,"December 30, 2022",SE Louisiana Lions,Vanderbilt Commodores,55,93,False,False,
+401484534,"January 03, 2023",Mississippi State Bulldogs,Tennessee Volunteers,53,87,False,False,
+401484535,"January 03, 2023",South Carolina Gamecocks,Vanderbilt Commodores,79,84,False,False,
+401484536,"January 03, 2023",LSU Tigers,Kentucky Wildcats,71,74,False,False,
+401484533,"January 03, 2023",Ole Miss Rebels,Alabama Crimson Tide,62,84,False,False,
+401484537,"January 04, 2023",Auburn Tigers,Georgia Bulldogs,64,76,False,False,
+401484539,"January 04, 2023",Texas A&M Aggies,Florida Gators,66,63,False,False,
+401484538,"January 04, 2023",Missouri Tigers,Arkansas Razorbacks,68,74,False,False,
+401484540,"January 07, 2023",Vanderbilt Commodores,Missouri Tigers,82,85,False,False,
+401484543,"January 07, 2023",Georgia Bulldogs,Florida Gators,75,82,False,False,
+401484545,"January 07, 2023",Kentucky Wildcats,Alabama Crimson Tide,52,78,False,False,
+401484541,"January 07, 2023",Ole Miss Rebels,Mississippi State Bulldogs,54,64,False,False,
+401484546,"January 07, 2023",Tennessee Volunteers,South Carolina Gamecocks,85,42,False,False,
+401484544,"January 07, 2023",LSU Tigers,Texas A&M Aggies,56,69,False,False,
+401484542,"January 07, 2023",Arkansas Razorbacks,Auburn Tigers,59,72,False,False,
+401484547,"January 10, 2023",Florida Gators,LSU Tigers,67,56,False,False,
+401484548,"January 10, 2023",South Carolina Gamecocks,Kentucky Wildcats,71,68,False,False,
+401484549,"January 10, 2023",Auburn Tigers,Ole Miss Rebels,82,73,False,False,
+401484550,"January 10, 2023",Vanderbilt Commodores,Tennessee Volunteers,68,77,False,False,
+401484552,"January 11, 2023",Mississippi State Bulldogs,Georgia Bulldogs,50,58,False,False,
+401484551,"January 11, 2023",Alabama Crimson Tide,Arkansas Razorbacks,84,69,False,False,
+401484553,"January 11, 2023",Missouri Tigers,Texas A&M Aggies,64,82,False,False,
+401484560,"January 14, 2023",Kentucky Wildcats,Tennessee Volunteers,63,56,False,False,
+401484559,"January 14, 2023",Georgia Bulldogs,Ole Miss Rebels,62,58,False,False,
+401484556,"January 14, 2023",Arkansas Razorbacks,Vanderbilt Commodores,84,97,False,False,
+401484558,"January 14, 2023",Missouri Tigers,Florida Gators,64,73,False,False,
+401484554,"January 14, 2023",LSU Tigers,Alabama Crimson Tide,66,106,False,False,
+401484555,"January 14, 2023",Texas A&M Aggies,South Carolina Gamecocks,94,53,False,False,
+401484557,"January 14, 2023",Mississippi State Bulldogs,Auburn Tigers,63,69,False,False,
+401484563,"January 17, 2023",Ole Miss Rebels,South Carolina Gamecocks,70,58,False,False,
+401484564,"January 17, 2023",Tennessee Volunteers,Mississippi State Bulldogs,70,59,False,False,
+401484561,"January 17, 2023",Alabama Crimson Tide,Vanderbilt Commodores,78,66,False,False,
+401484562,"January 17, 2023",Georgia Bulldogs,Kentucky Wildcats,71,85,False,False,
+401484566,"January 18, 2023",Florida Gators,Texas A&M Aggies,52,54,False,False,
+401484567,"January 18, 2023",Auburn Tigers,LSU Tigers,67,49,False,False,
+401484565,"January 18, 2023",Arkansas Razorbacks,Missouri Tigers,76,79,False,False,
+401484568,"January 21, 2023",Ole Miss Rebels,Arkansas Razorbacks,57,69,False,False,
+401484569,"January 21, 2023",Vanderbilt Commodores,Georgia Bulldogs,85,82,False,False,
+401484570,"January 21, 2023",Texas A&M Aggies,Kentucky Wildcats,67,76,False,False,
+401484574,"January 21, 2023",Auburn Tigers,South Carolina Gamecocks,81,66,False,False,
+401484571,"January 21, 2023",Tennessee Volunteers,LSU Tigers,77,56,False,False,
+401484573,"January 21, 2023",Alabama Crimson Tide,Missouri Tigers,85,64,False,False,
+401484572,"January 21, 2023",Florida Gators,Mississippi State Bulldogs,61,59,False,False,
+401484575,"January 24, 2023",Missouri Tigers,Ole Miss Rebels,89,77,False,False,
+401484577,"January 24, 2023",LSU Tigers,Arkansas Razorbacks,40,60,False,False,
+401484576,"January 24, 2023",Kentucky Wildcats,Vanderbilt Commodores,69,53,False,False,
+401484578,"January 25, 2023",Georgia Bulldogs,Tennessee Volunteers,41,70,False,False,
+401484579,"January 25, 2023",South Carolina Gamecocks,Florida Gators,60,81,False,False,
+401484580,"January 25, 2023",Mississippi State Bulldogs,Alabama Crimson Tide,63,66,False,False,
+401484581,"January 25, 2023",Texas A&M Aggies,Auburn Tigers,79,63,False,False,
+401479711,"January 28, 2023",Auburn Tigers,West Virginia Mountaineers,77,80,False,False,SEC/Big 12 Challenge
+401479703,"January 28, 2023",Iowa State Cyclones,Missouri Tigers,61,78,False,False,SEC/Big 12 Challenge
+401479706,"January 28, 2023",Alabama Crimson Tide,Oklahoma Sooners,69,93,False,False,SEC/Big 12 Challenge
+401479710,"January 28, 2023",Texas Tech Red Raiders,LSU Tigers,76,68,False,False,SEC/Big 12 Challenge
+401479702,"January 28, 2023",Arkansas Razorbacks,Baylor Bears,64,67,False,False,SEC/Big 12 Challenge
+401479708,"January 28, 2023",TCU Horned Frogs,Mississippi State Bulldogs,74,81,False,False,SEC/Big 12 Challenge
+401479705,"January 28, 2023",Florida Gators,Kansas State Wildcats,50,64,False,False,SEC/Big 12 Challenge
+401479709,"January 28, 2023",Texas Longhorns,Tennessee Volunteers,71,82,False,False,SEC/Big 12 Challenge
+401484582,"January 28, 2023",South Carolina Gamecocks,Georgia Bulldogs,78,81,False,False,
+401479704,"January 28, 2023",Kansas Jayhawks,Kentucky Wildcats,77,68,False,False,SEC/Big 12 Challenge
+401479707,"January 28, 2023",Ole Miss Rebels,Oklahoma State Cowboys,60,82,False,False,SEC/Big 12 Challenge
+401484583,"January 28, 2023",Vanderbilt Commodores,Texas A&M Aggies,66,72,False,False,
+401484586,"January 31, 2023",Mississippi State Bulldogs,South Carolina Gamecocks,66,51,False,False,
+401484587,"January 31, 2023",Texas A&M Aggies,Arkansas Razorbacks,70,81,False,False,
+401484585,"January 31, 2023",Vanderbilt Commodores,Alabama Crimson Tide,44,101,False,False,
+401484584,"January 31, 2023",Kentucky Wildcats,Ole Miss Rebels,75,66,False,False,
+401484588,"February 01, 2023",Georgia Bulldogs,Auburn Tigers,73,94,False,False,
+401484590,"February 01, 2023",Tennessee Volunteers,Florida Gators,54,67,False,False,
+401484589,"February 01, 2023",LSU Tigers,Missouri Tigers,77,87,False,False,
+401484597,"February 04, 2023",Ole Miss Rebels,Vanderbilt Commodores,71,74,False,False,
+401484595,"February 04, 2023",Auburn Tigers,Tennessee Volunteers,43,46,False,False,
+401484594,"February 04, 2023",Arkansas Razorbacks,South Carolina Gamecocks,65,63,False,False,
+401484592,"February 04, 2023",Alabama Crimson Tide,LSU Tigers,79,69,False,False,
+401484593,"February 04, 2023",Missouri Tigers,Mississippi State Bulldogs,52,63,False,False,
+401484591,"February 04, 2023",Florida Gators,Kentucky Wildcats,67,72,False,False,
+401484596,"February 04, 2023",Georgia Bulldogs,Texas A&M Aggies,57,82,False,False,
+401484598,"February 07, 2023",Ole Miss Rebels,Georgia Bulldogs,78,74,False,False,
+401484601,"February 07, 2023",Auburn Tigers,Texas A&M Aggies,78,83,False,False,
+401484599,"February 07, 2023",Arkansas Razorbacks,Kentucky Wildcats,88,73,False,False,
+401484600,"February 07, 2023",South Carolina Gamecocks,Missouri Tigers,74,83,False,False,
+401484602,"February 08, 2023",Tennessee Volunteers,Vanderbilt Commodores,65,66,False,False,
+401484603,"February 08, 2023",Florida Gators,Alabama Crimson Tide,69,97,False,False,
+401484604,"February 08, 2023",LSU Tigers,Mississippi State Bulldogs,53,64,False,False,
+401484610,"February 11, 2023",Kentucky Wildcats,Georgia Bulldogs,68,75,False,False,
+401484606,"February 11, 2023",South Carolina Gamecocks,Ole Miss Rebels,64,61,False,False,
+401484609,"February 11, 2023",Alabama Crimson Tide,Auburn Tigers,77,69,False,False,
+401484605,"February 11, 2023",Vanderbilt Commodores,Florida Gators,88,80,False,False,
+401484607,"February 11, 2023",Missouri Tigers,Tennessee Volunteers,86,85,False,False,
+401484608,"February 11, 2023",Mississippi State Bulldogs,Arkansas Razorbacks,70,64,False,False,
+401484611,"February 11, 2023",Texas A&M Aggies,LSU Tigers,74,62,False,False,
+401484614,"February 14, 2023",Vanderbilt Commodores,South Carolina Gamecocks,75,64,False,False,
+401484612,"February 14, 2023",Missouri Tigers,Auburn Tigers,56,89,False,False,
+401484613,"February 14, 2023",LSU Tigers,Georgia Bulldogs,63,65,False,False,
+401484618,"February 15, 2023",Ole Miss Rebels,Florida Gators,64,79,False,False,
+401484615,"February 15, 2023",Alabama Crimson Tide,Tennessee Volunteers,59,68,False,False,
+401484616,"February 15, 2023",Kentucky Wildcats,Mississippi State Bulldogs,71,68,False,False,
+401484617,"February 15, 2023",Arkansas Razorbacks,Texas A&M Aggies,56,62,False,False,
+401484619,"February 18, 2023",Tennessee Volunteers,Kentucky Wildcats,54,66,False,False,
+401484622,"February 18, 2023",South Carolina Gamecocks,LSU Tigers,82,73,False,False,
+401484620,"February 18, 2023",Florida Gators,Arkansas Razorbacks,65,84,False,False,
+401484623,"February 18, 2023",Mississippi State Bulldogs,Ole Miss Rebels,69,61,False,False,
+401484621,"February 18, 2023",Georgia Bulldogs,Alabama Crimson Tide,59,108,False,False,
+401484624,"February 18, 2023",Texas A&M Aggies,Missouri Tigers,69,60,False,False,
+401484625,"February 18, 2023",Auburn Tigers,Vanderbilt Commodores,65,67,False,False,
+401484627,"February 21, 2023",Mississippi State Bulldogs,Missouri Tigers,64,66,False,False,
+401484628,"February 21, 2023",Tennessee Volunteers,Texas A&M Aggies,63,68,False,False,
+401484626,"February 21, 2023",Georgia Bulldogs,Arkansas Razorbacks,65,97,False,False,
+401484629,"February 22, 2023",Kentucky Wildcats,Florida Gators,82,74,False,False,
+401484630,"February 22, 2023",Vanderbilt Commodores,LSU Tigers,77,84,False,False,
+401484631,"February 22, 2023",Ole Miss Rebels,Auburn Tigers,74,78,False,False,
+401484632,"February 22, 2023",Alabama Crimson Tide,South Carolina Gamecocks,78,76,False,False,
+401484634,"February 25, 2023",Missouri Tigers,Georgia Bulldogs,85,63,False,False,
+401484637,"February 25, 2023",Arkansas Razorbacks,Alabama Crimson Tide,83,86,False,False,
+401484635,"February 25, 2023",Texas A&M Aggies,Mississippi State Bulldogs,62,69,False,False,
+401484633,"February 25, 2023",Auburn Tigers,Kentucky Wildcats,54,86,False,False,
+401484636,"February 25, 2023",Florida Gators,Vanderbilt Commodores,72,88,False,False,
+401484639,"February 25, 2023",South Carolina Gamecocks,Tennessee Volunteers,45,85,False,False,
+401484638,"February 25, 2023",LSU Tigers,Ole Miss Rebels,69,82,False,False,
+401484640,"February 28, 2023",Florida Gators,Georgia Bulldogs,77,67,False,False,
+401484641,"February 28, 2023",Texas A&M Aggies,Ole Miss Rebels,69,61,False,False,
+401484642,"February 28, 2023",South Carolina Gamecocks,Mississippi State Bulldogs,68,74,False,False,
+401484643,"February 28, 2023",Arkansas Razorbacks,Tennessee Volunteers,57,75,False,False,
+401484644,"March 01, 2023",Auburn Tigers,Alabama Crimson Tide,85,90,False,False,
+401484645,"March 01, 2023",Vanderbilt Commodores,Kentucky Wildcats,68,66,False,False,
+401484646,"March 01, 2023",Missouri Tigers,LSU Tigers,81,76,False,False,
+401484647,"March 04, 2023",Alabama Crimson Tide,Texas A&M Aggies,61,67,False,False,
+401484653,"March 04, 2023",Georgia Bulldogs,South Carolina Gamecocks,55,61,False,False,
+401484648,"March 04, 2023",Kentucky Wildcats,Arkansas Razorbacks,88,79,False,False,
+401484650,"March 04, 2023",Tennessee Volunteers,Auburn Tigers,70,79,False,False,
+401484652,"March 04, 2023",Ole Miss Rebels,Missouri Tigers,77,82,False,False,
+401484651,"March 04, 2023",LSU Tigers,Florida Gators,67,79,False,False,
+401484649,"March 04, 2023",Mississippi State Bulldogs,Vanderbilt Commodores,72,77,False,False,
+401519346,"March 08, 2023",Ole Miss Rebels,South Carolina Gamecocks,67,61,False,True,SEC Tournament - 1st Round
+401519347,"March 08, 2023",LSU Tigers,Georgia Bulldogs,72,67,False,True,SEC Tournament - 1st Round
+401519348,"March 09, 2023",Mississippi State Bulldogs,Florida Gators,69,68,False,True,SEC Tournament - 2nd Round
+401519349,"March 09, 2023",Ole Miss Rebels,Tennessee Volunteers,55,70,False,True,SEC Tournament - 2nd Round
+401519350,"March 09, 2023",Arkansas Razorbacks,Auburn Tigers,76,73,False,True,SEC Tournament - 2nd Round
+401519351,"March 09, 2023",LSU Tigers,Vanderbilt Commodores,68,77,False,True,SEC Tournament - 2nd Round
+401519352,"March 10, 2023",Mississippi State Bulldogs,Alabama Crimson Tide,49,72,False,True,SEC Tournament - Quarterfinal
+401519353,"March 10, 2023",Tennessee Volunteers,Missouri Tigers,71,79,False,True,SEC Tournament - Quarterfinal
+401519354,"March 10, 2023",Arkansas Razorbacks,Texas A&M Aggies,61,67,False,True,SEC Tournament - Quarterfinal
+401519355,"March 10, 2023",Vanderbilt Commodores,Kentucky Wildcats,80,73,False,True,SEC Tournament - Quarterfinal
+401519356,"March 11, 2023",Missouri Tigers,Alabama Crimson Tide,61,72,False,True,SEC Tournament - Semifinal
+401519357,"March 11, 2023",Vanderbilt Commodores,Texas A&M Aggies,75,87,False,True,SEC Tournament - Semifinal
+401519358,"March 12, 2023",Texas A&M Aggies,Alabama Crimson Tide,63,82,False,True,SEC Tournament - Final
+401526874,"March 14, 2023",Yale Bulldogs,Vanderbilt Commodores,62,71,False,False,NIT - 1st Round
+401526888,"March 15, 2023",UCF Knights,Florida Gators,67,49,False,False,NIT - 1st Round
+401522135,"March 16, 2023",Utah State Aggies,Missouri Tigers,65,76,False,True,Men's Basketball Championship - South Region - 1st Round
+401522123,"March 16, 2023",Texas A&M-Corpus Christi Islanders,Alabama Crimson Tide,75,96,False,True,Men's Basketball Championship - South Region - 1st Round
+401522129,"March 16, 2023",Louisiana Ragin' Cajuns,Tennessee Volunteers,55,58,False,True,Men's Basketball Championship - East Region - 1st Round
+401522154,"March 17, 2023",Providence Friars,Kentucky Wildcats,53,61,False,True,Men's Basketball Championship - East Region - 1st Round
+401522162,"March 18, 2023",Arkansas Razorbacks,Kansas Jayhawks,72,71,False,True,Men's Basketball Championship - West Region - 2nd Round
+401522170,"March 18, 2023",Princeton Tigers,Missouri Tigers,78,63,False,True,Men's Basketball Championship - South Region - 2nd Round
+401522161,"March 18, 2023",Auburn Tigers,Houston Cougars,64,81,False,True,Men's Basketball Championship - Midwest Region - 2nd Round
+401522180,"March 19, 2023",Kentucky Wildcats,Kansas State Wildcats,69,75,False,True,Men's Basketball Championship - East Region - 2nd Round
+401526923,"March 22, 2023",UAB Blazers,Vanderbilt Commodores,67,59,False,False,NIT - Quarterfinal
+401522188,"March 23, 2023",Arkansas Razorbacks,UConn Huskies,65,88,False,True,Men's Basketball Championship - West Region - Sweet 16
+401522192,"March 23, 2023",Florida Atlantic Owls,Tennessee Volunteers,62,55,False,True,Men's Basketball Championship - East Region - Sweet 16
+401522197,"March 24, 2023",San Diego State Aztecs,Alabama Crimson Tide,71,64,False,True,Men's Basketball Championship - South Region - Sweet 16
+401483265,"November 07, 2022",Mississippi Valley State Delta Devils,Baylor Bears,53,117,False,False,
+401483328,"November 07, 2022",Mount St. Mary's Mountaineers,West Virginia Mountaineers,58,76,False,False,
+401483266,"November 07, 2022",IU Indianapolis Jaguars,Iowa State Cyclones,39,88,False,False,
+401483275,"November 07, 2022",Omaha Mavericks,Kansas Jayhawks,64,89,False,False,
+401483290,"November 07, 2022",Sam Houston Bearkats,Oklahoma Sooners,52,51,False,False,
+401483298,"November 07, 2022",Arkansas-Pine Bluff Golden Lions,TCU Horned Frogs,72,73,False,False,
+401483281,"November 07, 2022",UT Rio Grande Valley Vaqueros,Kansas State Wildcats,59,93,False,False,
+401483308,"November 07, 2022",UTEP Miners,Texas Longhorns,57,72,False,False,
+401483319,"November 07, 2022",Northwestern State Demons,Texas Tech Red Raiders,49,73,False,False,
+401489086,"November 07, 2022",UT Arlington Mavericks,Oklahoma State Cowboys,66,77,False,False,
+401483276,"November 10, 2022",North Dakota State Bison,Kansas Jayhawks,59,82,False,False,
+401483320,"November 10, 2022",Texas Southern Tigers,Texas Tech Red Raiders,54,78,False,False,
+401492375,"November 10, 2022",Southern Illinois Salukis,Oklahoma State Cowboys,61,60,False,False,
+401483309,"November 10, 2022",Houston Christian Huskies,Texas Longhorns,31,82,False,False,
+401483282,"November 11, 2022",Kansas State Wildcats,California Golden Bears,63,54,False,False,
+401483262,"November 11, 2022",Norfolk State Spartans,Baylor Bears,70,87,False,False,
+401483291,"November 11, 2022",Arkansas-Pine Bluff Golden Lions,Oklahoma Sooners,58,66,False,False,
+401483299,"November 11, 2022",Lamar Cardinals,TCU Horned Frogs,66,77,False,False,
+401483267,"November 13, 2022",North Carolina A&T Aggies,Iowa State Cyclones,43,80,False,False,
+401492618,"November 13, 2022",Oklahoma State Cowboys,Oakland Golden Grizzlies,91,62,False,False,
+401483263,"November 14, 2022",Northern Colorado Bears,Baylor Bears,62,95,False,False,
+401483300,"November 14, 2022",Northwestern State Demons,TCU Horned Frogs,64,63,False,False,
+401483321,"November 14, 2022",Louisiana Tech Bulldogs,Texas Tech Red Raiders,55,64,False,False,
+401483329,"November 15, 2022",Morehead State Eagles,West Virginia Mountaineers,57,75,False,False,
+401483292,"November 15, 2022",UNC Wilmington Seahawks,Oklahoma Sooners,53,74,False,False,
+401483310,"November 16, 2022",Gonzaga Bulldogs,Texas Longhorns,74,93,False,False,
+401483283,"November 17, 2022",Kansas City Roos,Kansas State Wildcats,53,69,False,False,
+401483301,"November 17, 2022",UL Monroe Warhawks,TCU Horned Frogs,60,95,False,False,Emerald Coast Classic - Campus Game
+401483330,"November 18, 2022",Pennsylvania Quakers,West Virginia Mountaineers,58,92,False,False,
+401486358,"November 18, 2022",UCF Knights,Oklahoma State Cowboys,60,56,False,True,Baha Mar Hoops - Bahamas Championshp
+401483277,"November 18, 2022",Southern Utah Thunderbirds,Kansas Jayhawks,76,82,False,False,
+401483293,"November 18, 2022",South Alabama Jaguars,Oklahoma Sooners,60,64,False,False,
+401486359,"November 20, 2022",DePaul Blue Demons,Oklahoma State Cowboys,78,82,False,True,Baha Mar Hoops - Bahamas Championshp
+401497571,"November 20, 2022",UCLA Bruins,Baylor Bears,75,80,False,True,Main Event
+401483268,"November 20, 2022",Milwaukee Panthers,Iowa State Cyclones,53,68,False,False,
+401483322,"November 21, 2022",Texas Tech Red Raiders,Creighton Bluejays,65,76,False,True,Maui Jim Maui Invitational
+401483284,"November 21, 2022",Rhode Island Rams,Kansas State Wildcats,57,77,False,True,Cayman Islands Classic
+401483311,"November 21, 2022",Texas Longhorns,Northern Arizona Lumberjacks,73,48,False,True,Leon Black Classic
+401486461,"November 22, 2022",Nevada Wolf Pack,Kansas State Wildcats,87,96,False,True,Cayman Islands Classic
+401483264,"November 23, 2022",McNeese Cowboys,Baylor Bears,60,89,False,False,
+401483269,"November 24, 2022",Iowa State Cyclones,Villanova Wildcats,81,79,False,True,Phil Knight Invitational
+401486732,"November 25, 2022",Oklahoma Sooners,Seton Hall Pirates,77,64,False,True,ESPN Events Invitational
+401492619,"November 25, 2022",Tulsa Golden Hurricane,Oklahoma State Cowboys,56,82,False,False,
+401486747,"November 25, 2022",West Virginia Mountaineers,Portland State Vikings,89,71,False,True,Phil Knight Legacy
+401483302,"November 25, 2022",California Golden Bears,TCU Horned Frogs,48,59,False,True,Emerald Coast Classic
+401483312,"November 26, 2022",UT Rio Grande Valley Vaqueros,Texas Longhorns,54,91,False,False,Leon Black Classic
+401492620,"November 27, 2022",Prairie View A&M Panthers,Oklahoma State Cowboys,53,78,False,False,
+401486743,"November 27, 2022",Iowa State Cyclones,UConn Huskies,53,71,False,True,Phil Knight Invitational
+401483278,"November 28, 2022",Texas Southern Tigers,Kansas Jayhawks,55,87,False,False,
+401479684,"November 29, 2022",Baylor Bears,Marquette Golden Eagles,70,96,False,False,Big East-Big 12 Battle
+401479687,"November 30, 2022",Kansas State Wildcats,Butler Bulldogs,64,76,False,False,Big East-Big 12 Battle
+401479685,"November 30, 2022",Providence Friars,TCU Horned Frogs,62,75,False,False,Big East-Big 12 Battle
+401479686,"November 30, 2022",Georgetown Hoyas,Texas Tech Red Raiders,65,79,False,False,Big East-Big 12 Battle
+401483270,"November 30, 2022",North Dakota Fighting Hawks,Iowa State Cyclones,44,63,False,False,
+401479689,"December 01, 2022",Oklahoma State Cowboys,UConn Huskies,64,74,False,False,Big East-Big 12 Battle
+401479688,"December 01, 2022",Creighton Bluejays,Texas Longhorns,67,72,False,False,Big East-Big 12 Battle
+401479690,"December 01, 2022",Seton Hall Pirates,Kansas Jayhawks,65,91,False,False,Big East-Big 12 Battle
+401483258,"December 02, 2022",Baylor Bears,Gonzaga Bulldogs,64,63,False,True,
+401479691,"December 03, 2022",Oklahoma Sooners,Villanova Wildcats,66,70,False,False,Big East-Big 12 Battle
+401485167,"December 03, 2022",West Virginia Mountaineers,Xavier Musketeers,74,84,False,False,Big East-Big 12 Battle
+401483285,"December 03, 2022",Wichita State Shockers,Kansas State Wildcats,50,55,False,False,
+401479692,"December 04, 2022",St. John's Red Storm,Iowa State Cyclones,60,71,False,False,Big East-Big 12 Battle
+401483261,"December 06, 2022",Tarleton State Texans,Baylor Bears,57,80,False,False,
+401483286,"December 06, 2022",Abilene Christian Wildcats,Kansas State Wildcats,64,81,False,False,
+401483295,"December 06, 2022",Kansas City Roos,Oklahoma Sooners,53,75,False,False,
+401483303,"December 06, 2022",Jackson State Tigers,TCU Horned Frogs,51,78,False,False,
+401492621,"December 06, 2022",Sam Houston Bearkats,Oklahoma State Cowboys,51,65,False,False,
+401483333,"December 07, 2022",Navy Midshipmen,West Virginia Mountaineers,64,85,False,False,
+401483323,"December 07, 2022",Nicholls Colonels,Texas Tech Red Raiders,71,78,False,False,
+401483314,"December 10, 2022",Arkansas-Pine Bluff Golden Lions,Texas Longhorns,43,88,False,False,Jimmy Blacklock Classic
+401483334,"December 10, 2022",UAB Blazers,West Virginia Mountaineers,70,81,False,False,
+401483304,"December 10, 2022",TCU Horned Frogs,SMU Mustangs,83,75,False,True,
+401483287,"December 11, 2022",Incarnate Word Cardinals,Kansas State Wildcats,50,98,False,False,
+401483272,"December 11, 2022",McNeese Cowboys,Iowa State Cyclones,40,77,False,False,
+401483315,"December 12, 2022",Rice Owls,Texas Longhorns,81,87,False,False,
+401483324,"December 13, 2022",Eastern Washington Eagles,Texas Tech Red Raiders,70,77,False,False,
+401483297,"December 17, 2022",Central Arkansas Bears,Oklahoma Sooners,66,87,False,False,
+401483325,"December 17, 2022",Jackson State Tigers,Texas Tech Red Raiders,52,102,False,True,
+401492622,"December 17, 2022",Oklahoma State Cowboys,Wichita State Shockers,59,49,False,False,
+401483273,"December 18, 2022",Western Michigan Broncos,Iowa State Cyclones,57,73,False,False,
+401483316,"December 18, 2022",Stanford Cardinal,Texas Longhorns,62,72,False,True,Pac-12 Coast-to-Coast Challenge
+401483335,"December 18, 2022",Buffalo Bulls,West Virginia Mountaineers,78,96,False,False,
+401483305,"December 18, 2022",Mississippi Valley State Delta Devils,TCU Horned Frogs,43,88,False,False,
+401483257,"December 18, 2022",Washington State Cougars,Baylor Bears,59,65,False,True,Pac-12 Coast-to-Coast Challenge
+401489642,"December 20, 2022",Texas A&M-Corpus Christi Islanders,Oklahoma State Cowboys,58,81,False,False,
+401483259,"December 20, 2022",Northwestern State Demons,Baylor Bears,48,58,False,False,
+401483326,"December 21, 2022",Houston Christian Huskies,Texas Tech Red Raiders,67,111,False,False,
+401483289,"December 21, 2022",Radford Highlanders,Kansas State Wildcats,65,73,False,False,
+401483317,"December 21, 2022",Louisiana Ragin' Cajuns,Texas Longhorns,72,100,False,False,
+401483306,"December 21, 2022",TCU Horned Frogs,Utah Utes,75,71,False,False,
+401483336,"December 22, 2022",Stony Brook Seawolves,West Virginia Mountaineers,64,75,False,False,
+401483280,"December 22, 2022",Harvard Crimson,Kansas Jayhawks,54,68,False,False,
+401483318,"December 27, 2022",East Texas A&M Lions,Texas Longhorns,72,97,False,False,
+401483327,"December 27, 2022",South Carolina State Bulldogs,Texas Tech Red Raiders,71,110,False,False,
+401483307,"December 28, 2022",Central Arkansas Bears,TCU Horned Frogs,57,103,False,False,
+401483260,"December 28, 2022",Nicholls Colonels,Baylor Bears,56,85,False,False,
+401493379,"December 31, 2022",Texas Tech Red Raiders,TCU Horned Frogs,61,67,False,False,
+401493375,"December 31, 2022",Oklahoma State Cowboys,Kansas Jayhawks,67,69,False,False,
+401493376,"December 31, 2022",Baylor Bears,Iowa State Cyclones,62,77,False,False,
+401493378,"December 31, 2022",Texas Longhorns,Oklahoma Sooners,70,69,False,False,
+401493377,"December 31, 2022",West Virginia Mountaineers,Kansas State Wildcats,76,82,False,False,
+401493380,"January 02, 2023",West Virginia Mountaineers,Oklahoma State Cowboys,60,67,False,False,
+401493381,"January 03, 2023",Kansas Jayhawks,Texas Tech Red Raiders,75,72,False,False,
+401493382,"January 03, 2023",Kansas State Wildcats,Texas Longhorns,116,103,False,False,
+401493383,"January 04, 2023",Iowa State Cyclones,Oklahoma Sooners,63,60,False,False,
+401493384,"January 04, 2023",TCU Horned Frogs,Baylor Bears,88,87,False,False,
+401493385,"January 07, 2023",Texas Longhorns,Oklahoma State Cowboys,56,46,False,False,
+401493386,"January 07, 2023",Iowa State Cyclones,TCU Horned Frogs,69,67,False,False,
+401493387,"January 07, 2023",Kansas State Wildcats,Baylor Bears,97,95,False,False,
+401493388,"January 07, 2023",Kansas Jayhawks,West Virginia Mountaineers,76,62,False,False,
+401493389,"January 07, 2023",Oklahoma Sooners,Texas Tech Red Raiders,68,63,False,False,
+401493390,"January 10, 2023",Oklahoma State Cowboys,Kansas State Wildcats,57,65,False,False,
+401493391,"January 10, 2023",Texas Tech Red Raiders,Iowa State Cyclones,50,84,False,False,
+401493392,"January 10, 2023",Oklahoma Sooners,Kansas Jayhawks,75,79,False,False,
+401493393,"January 11, 2023",Baylor Bears,West Virginia Mountaineers,83,78,False,False,
+401493394,"January 11, 2023",TCU Horned Frogs,Texas Longhorns,75,79,False,False,
+401493395,"January 14, 2023",West Virginia Mountaineers,Oklahoma Sooners,76,77,False,False,
+401493396,"January 14, 2023",Kansas State Wildcats,TCU Horned Frogs,68,82,False,False,
+401493397,"January 14, 2023",Iowa State Cyclones,Kansas Jayhawks,60,62,False,False,
+401493398,"January 14, 2023",Oklahoma State Cowboys,Baylor Bears,58,74,False,False,
+401493399,"January 14, 2023",Texas Tech Red Raiders,Texas Longhorns,70,72,False,False,
+401493400,"January 17, 2023",Kansas Jayhawks,Kansas State Wildcats,82,83,False,False,
+401493401,"January 17, 2023",Texas Longhorns,Iowa State Cyclones,67,78,False,False,
+401493402,"January 17, 2023",Baylor Bears,Texas Tech Red Raiders,81,74,False,False,
+401493403,"January 18, 2023",TCU Horned Frogs,West Virginia Mountaineers,65,74,False,False,
+401493404,"January 18, 2023",Oklahoma Sooners,Oklahoma State Cowboys,56,72,False,False,
+401493405,"January 21, 2023",TCU Horned Frogs,Kansas Jayhawks,83,60,False,False,
+401493406,"January 21, 2023",Texas Tech Red Raiders,Kansas State Wildcats,58,68,False,False,
+401493407,"January 21, 2023",Iowa State Cyclones,Oklahoma State Cowboys,59,61,False,False,
+401493408,"January 21, 2023",Baylor Bears,Oklahoma Sooners,62,60,False,False,
+401493409,"January 21, 2023",Texas Longhorns,West Virginia Mountaineers,69,61,False,False,
+401493410,"January 23, 2023",Kansas Jayhawks,Baylor Bears,69,75,False,False,
+401493411,"January 24, 2023",Oklahoma Sooners,TCU Horned Frogs,52,79,False,False,
+401493412,"January 24, 2023",Kansas State Wildcats,Iowa State Cyclones,76,80,False,False,
+401493413,"January 24, 2023",Oklahoma State Cowboys,Texas Longhorns,75,89,False,False,
+401493414,"January 25, 2023",West Virginia Mountaineers,Texas Tech Red Raiders,76,61,False,False,
+401493415,"January 30, 2023",Baylor Bears,Texas Longhorns,71,76,False,False,
+401493416,"January 30, 2023",Iowa State Cyclones,Texas Tech Red Raiders,77,80,False,False,
+401493417,"January 31, 2023",Kansas State Wildcats,Kansas Jayhawks,78,90,False,False,
+401493418,"January 31, 2023",West Virginia Mountaineers,TCU Horned Frogs,72,76,False,False,
+401493419,"February 01, 2023",Oklahoma State Cowboys,Oklahoma Sooners,71,61,False,False,
+401493420,"February 04, 2023",Kansas Jayhawks,Iowa State Cyclones,53,68,False,False,
+401493421,"February 04, 2023",Texas Tech Red Raiders,Baylor Bears,62,89,False,False,
+401493422,"February 04, 2023",TCU Horned Frogs,Oklahoma State Cowboys,73,79,False,False,
+401493423,"February 04, 2023",Texas Longhorns,Kansas State Wildcats,69,66,False,False,
+401493424,"February 04, 2023",Oklahoma Sooners,West Virginia Mountaineers,61,93,False,False,
+401493425,"February 06, 2023",Texas Longhorns,Kansas Jayhawks,80,88,False,False,
+401493426,"February 07, 2023",TCU Horned Frogs,Kansas State Wildcats,61,82,False,False,
+401493427,"February 08, 2023",Iowa State Cyclones,West Virginia Mountaineers,71,76,False,False,
+401493428,"February 08, 2023",Texas Tech Red Raiders,Oklahoma State Cowboys,68,71,False,False,
+401493429,"February 08, 2023",Oklahoma Sooners,Baylor Bears,72,82,False,False,
+401493430,"February 11, 2023",West Virginia Mountaineers,Texas Longhorns,60,94,False,False,
+401493431,"February 11, 2023",Kansas Jayhawks,Oklahoma Sooners,78,55,False,False,
+401493432,"February 11, 2023",Baylor Bears,TCU Horned Frogs,72,68,False,False,
+401493433,"February 11, 2023",Oklahoma State Cowboys,Iowa State Cyclones,64,56,False,False,
+401493434,"February 11, 2023",Kansas State Wildcats,Texas Tech Red Raiders,63,71,False,False,
+401493435,"February 13, 2023",Texas Longhorns,Texas Tech Red Raiders,67,74,False,False,
+401493436,"February 13, 2023",West Virginia Mountaineers,Baylor Bears,67,79,False,False,
+401493437,"February 14, 2023",Kansas State Wildcats,Oklahoma Sooners,65,79,False,False,
+401493438,"February 14, 2023",Kansas Jayhawks,Oklahoma State Cowboys,87,76,False,False,
+401493439,"February 15, 2023",TCU Horned Frogs,Iowa State Cyclones,59,70,False,False,
+401493440,"February 18, 2023",Texas Tech Red Raiders,West Virginia Mountaineers,78,72,False,False,
+401493441,"February 18, 2023",Oklahoma Sooners,Texas Longhorns,83,85,False,False,
+401493442,"February 18, 2023",Oklahoma State Cowboys,TCU Horned Frogs,75,100,False,False,
+401493444,"February 18, 2023",Iowa State Cyclones,Kansas State Wildcats,55,61,False,False,
+401493443,"February 18, 2023",Baylor Bears,Kansas Jayhawks,71,87,False,False,
+401493445,"February 20, 2023",Oklahoma State Cowboys,West Virginia Mountaineers,67,85,False,False,
+401493446,"February 20, 2023",Kansas Jayhawks,TCU Horned Frogs,63,58,False,False,
+401493447,"February 21, 2023",Baylor Bears,Kansas State Wildcats,65,75,False,False,
+401493448,"February 21, 2023",Texas Tech Red Raiders,Oklahoma Sooners,74,63,False,False,
+401493449,"February 21, 2023",Iowa State Cyclones,Texas Longhorns,54,72,False,False,
+401493450,"February 25, 2023",Oklahoma Sooners,Iowa State Cyclones,61,50,False,False,
+401493451,"February 25, 2023",TCU Horned Frogs,Texas Tech Red Raiders,83,82,False,False,
+401493452,"February 25, 2023",Kansas State Wildcats,Oklahoma State Cowboys,73,68,False,False,
+401493453,"February 25, 2023",Texas Longhorns,Baylor Bears,72,81,False,False,
+401493454,"February 25, 2023",West Virginia Mountaineers,Kansas Jayhawks,74,76,False,False,
+401493455,"February 27, 2023",Baylor Bears,Oklahoma State Cowboys,74,68,False,False,
+401493456,"February 27, 2023",West Virginia Mountaineers,Iowa State Cyclones,72,69,False,False,
+401493457,"February 28, 2023",Texas Tech Red Raiders,Kansas Jayhawks,63,67,False,False,
+401493458,"March 01, 2023",Oklahoma Sooners,Kansas State Wildcats,69,85,False,False,
+401493459,"March 01, 2023",Texas Longhorns,TCU Horned Frogs,73,75,False,False,
+401493460,"March 04, 2023",Iowa State Cyclones,Baylor Bears,73,58,False,False,
+401493462,"March 04, 2023",Kansas State Wildcats,West Virginia Mountaineers,81,89,False,False,
+401493463,"March 04, 2023",TCU Horned Frogs,Oklahoma Sooners,60,74,False,False,
+401493461,"March 04, 2023",Kansas Jayhawks,Texas Longhorns,59,75,False,False,
+401493464,"March 04, 2023",Oklahoma State Cowboys,Texas Tech Red Raiders,71,68,False,False,
+401514235,"March 08, 2023",Texas Tech Red Raiders,West Virginia Mountaineers,62,78,False,True,Phillips 66 Big 12 Championship - 1st Round
+401514236,"March 08, 2023",Oklahoma Sooners,Oklahoma State Cowboys,49,57,False,True,Phillips 66 Big 12 Championship - 1st Round
+401514237,"March 09, 2023",Iowa State Cyclones,Baylor Bears,78,72,False,True,Phillips 66 Big 12 Championship - Quarterfinal
+401514238,"March 09, 2023",West Virginia Mountaineers,Kansas Jayhawks,61,78,False,True,Phillips 66 Big 12 Championship - Quarterfinal
+401514240,"March 09, 2023",Oklahoma State Cowboys,Texas Longhorns,47,61,False,True,Phillips 66 Big 12 Championship - Quarterfinal
+401514239,"March 09, 2023",TCU Horned Frogs,Kansas State Wildcats,80,67,False,True,Phillips 66 Big 12 Championship - Quarterfinal
+401514241,"March 10, 2023",Iowa State Cyclones,Kansas Jayhawks,58,71,False,True,Phillips 66 Big 12 Championship - Semifinal
+401514242,"March 10, 2023",TCU Horned Frogs,Texas Longhorns,60,66,False,True,Phillips 66 Big 12 Championship - Semifinal
+401514243,"March 11, 2023",Texas Longhorns,Kansas Jayhawks,76,56,False,True,Phillips 66 Big 12 Championship - Final
+401526880,"March 15, 2023",Oklahoma State Cowboys,Youngstown State Penguins,69,64,False,False,NIT - 1st Round
+401522125,"March 16, 2023",Howard Bison,Kansas Jayhawks,68,96,False,True,Men's Basketball Championship - West Region - 1st Round
+401522124,"March 16, 2023",Colgate Raiders,Texas Longhorns,61,81,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522151,"March 17, 2023",UC Santa Barbara Gauchos,Baylor Bears,56,74,False,True,Men's Basketball Championship - South Region - 1st Round
+401522153,"March 17, 2023",Montana State Bobcats,Kansas State Wildcats,65,77,False,True,Men's Basketball Championship - East Region - 1st Round
+401522149,"March 17, 2023",Arizona State Sun Devils,TCU Horned Frogs,70,72,False,True,Men's Basketball Championship - West Region - 1st Round
+401526911,"March 19, 2023",Eastern Washington Eagles,Oklahoma State Cowboys,60,71,False,False,NIT - 2nd Round
+401522179,"March 19, 2023",Creighton Bluejays,Baylor Bears,85,76,False,True,Men's Basketball Championship - South Region - 2nd Round
+401522178,"March 19, 2023",TCU Horned Frogs,Gonzaga Bulldogs,81,84,False,True,Men's Basketball Championship - West Region - 2nd Round
+401526918,"March 21, 2023",North Texas Mean Green,Oklahoma State Cowboys,65,59,False,False,NIT - Quarterfinal
+401522194,"March 24, 2023",Xavier Musketeers,Texas Longhorns,71,83,False,True,Men's Basketball Championship - Midwest Region - Sweet 16
+401522193,"March 25, 2023",Florida Atlantic Owls,Kansas State Wildcats,79,76,False,True,Men's Basketball Championship - East Region - Elite 8
+401484362,"November 07, 2022",La Salle Explorers,Villanova Wildcats,68,81,False,False,
+401485101,"November 07, 2022",New Orleans Privateers,Butler Bulldogs,53,89,False,False,
+401485102,"November 07, 2022",Merrimack Warriors,St. John's Red Storm,72,97,False,False,
+401485098,"November 07, 2022",Stonehill Skyhawks,UConn Huskies,54,85,False,False,
+401485103,"November 07, 2022",Morgan State Bears,Xavier Musketeers,73,96,False,False,
+401485104,"November 07, 2022",Loyola Maryland Greyhounds,DePaul Blue Demons,66,72,False,False,
+401485099,"November 07, 2022",St. Thomas-Minnesota Tommies,Creighton Bluejays,60,72,False,False,
+401485100,"November 07, 2022",Radford Highlanders,Marquette Golden Eagles,69,79,False,False,
+401485106,"November 08, 2022",Rider Broncs,Providence Friars,65,66,False,False,
+401485105,"November 08, 2022",Coppin State Eagles,Georgetown Hoyas,89,99,False,False,
+401484869,"November 09, 2022",Monmouth Hawks,Seton Hall Pirates,52,79,False,False,
+401485108,"November 10, 2022",Central Michigan Chippewas,Marquette Golden Eagles,73,97,False,False,
+401485107,"November 10, 2022",North Dakota Fighting Hawks,Creighton Bluejays,61,96,False,False,
+401485109,"November 11, 2022",Boston University Terriers,UConn Huskies,57,86,False,False,
+401484363,"November 11, 2022",Villanova Wildcats,Temple Owls,64,68,False,False,
+401485130,"November 11, 2022",Montana Grizzlies,Xavier Musketeers,64,86,False,False,
+401485131,"November 11, 2022",Western Illinois Leathernecks,DePaul Blue Demons,74,86,False,False,Baha Mar Hoops - Bahamas Championship - Campus Game
+401485132,"November 12, 2022",Green Bay Phoenix,Georgetown Hoyas,58,92,False,False,
+401485133,"November 12, 2022",Saint Peter's Peacocks,Seton Hall Pirates,44,80,False,False,
+401485134,"November 12, 2022",Lafayette Leopards,St. John's Red Storm,68,83,False,False,
+401485135,"November 12, 2022",Northeastern Huskies,Providence Friars,65,89,False,False,
+401484364,"November 14, 2022",Delaware State Hornets,Villanova Wildcats,50,60,False,False,
+401485136,"November 14, 2022",Holy Cross Crusaders,Creighton Bluejays,65,94,False,False,
+401485138,"November 15, 2022",Stonehill Skyhawks,Providence Friars,76,100,False,False,
+401485137,"November 15, 2022",Buffalo Bulls,UConn Huskies,64,84,False,False,
+401485139,"November 15, 2022",Central Connecticut Blue Devils,St. John's Red Storm,74,91,False,False,
+401485140,"November 15, 2022",Fairfield Stags,Xavier Musketeers,65,78,False,False,
+401485142,"November 17, 2022",Saint Francis Red Flash,Butler Bulldogs,67,95,False,False,
+401485141,"November 17, 2022",UC Riverside Highlanders,Creighton Bluejays,51,80,False,False,
+401485143,"November 17, 2022",Long Island University Sharks,Marquette Golden Eagles,58,95,False,False,Fort Myers Tip-Off - Campus Game
+401485144,"November 18, 2022",Loyola Marymount Lions,Georgetown Hoyas,84,66,False,True,Jamaica Classic
+401485145,"November 18, 2022",UNC Wilmington Seahawks,UConn Huskies,50,86,False,False,
+401485146,"November 18, 2022",Santa Clara Broncos,DePaul Blue Demons,69,61,False,True,Baha Mar Hoops - Bahamas Championshp
+401485147,"November 19, 2022",The Citadel Bulldogs,Butler Bulldogs,42,89,False,False,
+401486436,"November 20, 2022",La Salle Explorers,Georgetown Hoyas,62,69,False,True,Jamaica Classic
+401485148,"November 20, 2022",Wagner Seahawks,Seton Hall Pirates,44,82,False,False,
+401486452,"November 20, 2022",Providence Friars,Saint Louis Billikens,73,76,False,True,Basketball Hall of Fame Tip-Off presented by Lowe's
+401485149,"November 20, 2022",Delaware State Hornets,UConn Huskies,60,95,False,False,
+401485150,"November 21, 2022",St. John's Red Storm,Temple Owls,78,72,False,True,Vivid Seats Empire Classic
+401485151,"November 23, 2022",American University Eagles,Georgetown Hoyas,74,70,False,False,
+401486694,"November 23, 2022",Creighton Bluejays,Arizona Wildcats,79,81,False,True,Maui Jim Maui Invitational
+401485152,"November 23, 2022",Merrimack Warriors,Providence Friars,57,71,False,False,
+401486717,"November 24, 2022",Butler Bulldogs,BYU Cougars,75,70,False,True,Bad Boy Mowers Battle 4 Atlantis
+401485154,"November 24, 2022",Memphis Tigers,Seton Hall Pirates,69,70,False,True,ESPN Events Invitational
+401484355,"November 24, 2022",UConn Huskies,Oregon Ducks,83,59,False,True,Phil Knight Invitational
+401486737,"November 25, 2022",Portland Pilots,Villanova Wildcats,83,71,False,True,Phil Knight Invitational
+401485157,"November 26, 2022",UMBC Retrievers,Georgetown Hoyas,70,79,False,False,
+401485158,"November 26, 2022",Niagara Purple Eagles,St. John's Red Storm,70,78,False,False,
+401485159,"November 26, 2022",Columbia Lions,Providence Friars,64,78,False,False,
+401485160,"November 26, 2022",Chicago State Cougars,Marquette Golden Eagles,68,82,False,False,
+401486741,"November 27, 2022",Villanova Wildcats,Oregon Ducks,67,74,False,True,Phil Knight Invitational
+401486736,"November 27, 2022",Siena Saints,Seton Hall Pirates,60,55,False,True,ESPN Events Invitational
+401486752,"November 27, 2022",Xavier Musketeers,Gonzaga Bulldogs,84,88,False,True,Phil Knight Legacy
+401485162,"November 29, 2022",Long Island University Sharks,St. John's Red Storm,68,95,False,False,
+401485163,"November 30, 2022",SE Louisiana Lions,Xavier Musketeers,63,95,False,False,
+401485164,"November 30, 2022",Samford Bulldogs,DePaul Blue Demons,98,103,False,False,
+401485166,"December 03, 2022",Tennessee Tech Golden Eagles,Butler Bulldogs,66,80,False,False,
+401485165,"December 03, 2022",DePaul Blue Demons,Loyola Chicago Ramblers,78,72,False,False,
+401484369,"December 03, 2022",Providence Friars,Rhode Island Rams,88,74,False,False,
+401485168,"December 06, 2022",Yale Bulldogs,Butler Bulldogs,61,71,False,False,
+401485169,"December 06, 2022",North Carolina Central Eagles,Marquette Golden Eagles,78,90,False,False,
+401485170,"December 07, 2022",Siena Saints,Georgetown Hoyas,68,75,False,False,
+401485172,"December 07, 2022",DePaul Blue Demons,St. John's Red Storm,67,86,False,False,
+401484365,"December 07, 2022",Pennsylvania Quakers,Villanova Wildcats,59,70,False,False,
+401485171,"December 07, 2022",Lincoln (PA) Lions,Seton Hall Pirates,55,82,False,False,
+401485173,"December 07, 2022",Manhattan Jaspers,Providence Friars,59,99,False,False,
+401485175,"December 10, 2022",Long Island University Sharks,UConn Huskies,61,114,False,False,
+401485178,"December 10, 2022",UAlbany Great Danes,Providence Friars,55,93,False,False,
+401485174,"December 10, 2022",Xavier Musketeers,Cincinnati Bearcats,80,77,False,False,Skyline Chili Crosstown Shootout
+401483449,"December 10, 2022",Butler Bulldogs,California Golden Bears,82,58,False,False,
+401485176,"December 10, 2022",New Hampshire Wildcats,St. John's Red Storm,51,64,False,False,
+401485179,"December 10, 2022",UTEP Miners,DePaul Blue Demons,70,91,False,False,
+401485177,"December 10, 2022",Creighton Bluejays,BYU Cougars,80,83,False,True,
+401483440,"December 12, 2022",Arizona State Sun Devils,Creighton Bluejays,73,71,False,True,
+401485180,"December 13, 2022",Southern Jaguars,Xavier Musketeers,59,79,False,False,
+401485181,"December 14, 2022",Drexel Dragons,Seton Hall Pirates,49,66,False,False,
+401485182,"December 14, 2022",DePaul Blue Demons,Duquesne Dukes,55,66,False,False,
+401485183,"December 16, 2022",Xavier Musketeers,Georgetown Hoyas,102,89,False,False,
+401485184,"December 16, 2022",Creighton Bluejays,Marquette Golden Eagles,58,69,False,False,
+401485185,"December 17, 2022",Providence Friars,Seton Hall Pirates,71,67,False,False,
+401484366,"December 17, 2022",Villanova Wildcats,Saint Joseph's Hawks,71,64,False,False,
+401485186,"December 17, 2022",UConn Huskies,Butler Bulldogs,68,46,False,False,
+401485187,"December 20, 2022",Georgetown Hoyas,UConn Huskies,73,84,False,False,
+401485188,"December 20, 2022",Marquette Golden Eagles,Providence Friars,98,103,False,False,
+401485189,"December 20, 2022",Seton Hall Pirates,Xavier Musketeers,70,73,False,False,
+401485190,"December 21, 2022",St. John's Red Storm,Villanova Wildcats,63,78,False,False,
+401485191,"December 22, 2022",Butler Bulldogs,Creighton Bluejays,56,78,False,False,
+401485192,"December 25, 2022",DePaul Blue Demons,Creighton Bluejays,65,80,False,False,
+401485193,"December 27, 2022",Seton Hall Pirates,Marquette Golden Eagles,69,83,False,False,
+401485194,"December 28, 2022",Villanova Wildcats,UConn Huskies,66,74,False,False,
+401485195,"December 28, 2022",Xavier Musketeers,St. John's Red Storm,84,79,False,False,
+401485196,"December 29, 2022",Providence Friars,Butler Bulldogs,72,52,False,False,
+401485197,"December 29, 2022",Georgetown Hoyas,DePaul Blue Demons,76,83,False,False,
+401485198,"December 31, 2022",UConn Huskies,Xavier Musketeers,73,83,False,False,
+401485199,"December 31, 2022",St. John's Red Storm,Seton Hall Pirates,66,88,False,False,
+401485200,"December 31, 2022",Marquette Golden Eagles,Villanova Wildcats,68,66,False,False,
+401485201,"January 01, 2023",Providence Friars,DePaul Blue Demons,74,59,False,False,
+401485202,"January 01, 2023",Butler Bulldogs,Georgetown Hoyas,80,51,False,False,
+401485203,"January 03, 2023",Marquette Golden Eagles,St. John's Red Storm,96,85,False,False,
+401485204,"January 03, 2023",Seton Hall Pirates,Creighton Bluejays,61,83,False,False,
+401485205,"January 04, 2023",Villanova Wildcats,Georgetown Hoyas,73,57,False,False,
+401485206,"January 04, 2023",UConn Huskies,Providence Friars,61,73,False,False,
+401485207,"January 04, 2023",DePaul Blue Demons,Butler Bulldogs,70,78,False,False,
+401485208,"January 07, 2023",Creighton Bluejays,UConn Huskies,60,69,False,False,
+401485209,"January 07, 2023",St. John's Red Storm,Providence Friars,80,83,False,False,
+401485210,"January 07, 2023",Georgetown Hoyas,Marquette Golden Eagles,73,95,False,False,
+401485211,"January 07, 2023",Xavier Musketeers,Villanova Wildcats,88,80,False,False,
+401485212,"January 07, 2023",Butler Bulldogs,Seton Hall Pirates,51,76,False,False,
+401485213,"January 10, 2023",Butler Bulldogs,St. John's Red Storm,61,77,False,False,
+401485214,"January 10, 2023",Seton Hall Pirates,Georgetown Hoyas,66,51,False,False,
+401485215,"January 10, 2023",Villanova Wildcats,DePaul Blue Demons,65,75,False,False,
+401485216,"January 11, 2023",UConn Huskies,Marquette Golden Eagles,76,82,False,False,
+401485217,"January 11, 2023",Creighton Bluejays,Xavier Musketeers,87,90,False,False,
+401485218,"January 13, 2023",Villanova Wildcats,Butler Bulldogs,71,79,False,False,
+401485219,"January 14, 2023",Seton Hall Pirates,DePaul Blue Demons,71,67,False,False,
+401485220,"January 14, 2023",Providence Friars,Creighton Bluejays,67,73,False,False,
+401485221,"January 15, 2023",Marquette Golden Eagles,Xavier Musketeers,76,80,False,False,
+401485222,"January 15, 2023",St. John's Red Storm,UConn Huskies,85,74,False,False,
+401485223,"January 16, 2023",Georgetown Hoyas,Villanova Wildcats,73,77,False,False,
+401485224,"January 17, 2023",Creighton Bluejays,Butler Bulldogs,73,52,False,False,
+401485225,"January 18, 2023",UConn Huskies,Seton Hall Pirates,66,67,False,False,
+401485226,"January 18, 2023",Xavier Musketeers,DePaul Blue Demons,72,73,False,False,
+401485227,"January 18, 2023",Providence Friars,Marquette Golden Eagles,75,83,False,False,
+401485228,"January 20, 2023",Villanova Wildcats,St. John's Red Storm,57,49,False,False,
+401485230,"January 21, 2023",Georgetown Hoyas,Xavier Musketeers,82,95,False,False,
+401485231,"January 21, 2023",DePaul Blue Demons,Providence Friars,64,75,False,False,
+401485229,"January 21, 2023",Marquette Golden Eagles,Seton Hall Pirates,74,53,False,False,
+401485232,"January 22, 2023",Butler Bulldogs,UConn Huskies,56,86,False,False,
+401485233,"January 24, 2023",DePaul Blue Demons,Georgetown Hoyas,76,81,False,False,
+401485234,"January 25, 2023",Xavier Musketeers,UConn Huskies,82,79,False,False,
+401485235,"January 25, 2023",Butler Bulldogs,Providence Friars,58,79,False,False,
+401485236,"January 25, 2023",St. John's Red Storm,Creighton Bluejays,76,104,False,False,
+401485237,"January 28, 2023",Xavier Musketeers,Creighton Bluejays,67,84,False,False,
+401485238,"January 28, 2023",Marquette Golden Eagles,DePaul Blue Demons,89,69,False,False,
+401485239,"January 28, 2023",Seton Hall Pirates,Butler Bulldogs,70,49,False,False,
+401485241,"January 29, 2023",Providence Friars,Villanova Wildcats,70,65,False,False,
+401485240,"January 29, 2023",Georgetown Hoyas,St. John's Red Storm,73,75,False,False,
+401485242,"January 31, 2023",UConn Huskies,DePaul Blue Demons,90,76,False,False,
+401485243,"February 01, 2023",Creighton Bluejays,Georgetown Hoyas,63,53,False,False,
+401485244,"February 01, 2023",Providence Friars,Xavier Musketeers,83,85,False,False,
+401485245,"February 01, 2023",Villanova Wildcats,Marquette Golden Eagles,64,73,False,False,
+401485246,"February 01, 2023",Seton Hall Pirates,St. John's Red Storm,84,72,False,False,
+401485247,"February 04, 2023",UConn Huskies,Georgetown Hoyas,68,62,False,False,
+401485248,"February 04, 2023",Butler Bulldogs,Marquette Golden Eagles,52,60,False,False,
+401485249,"February 04, 2023",St. John's Red Storm,Xavier Musketeers,71,96,False,False,
+401485250,"February 04, 2023",Villanova Wildcats,Creighton Bluejays,61,66,False,False,
+401485251,"February 05, 2023",DePaul Blue Demons,Seton Hall Pirates,64,69,False,False,
+401485252,"February 07, 2023",Marquette Golden Eagles,UConn Huskies,72,87,False,False,
+401485253,"February 07, 2023",St. John's Red Storm,Butler Bulldogs,66,68,False,False,
+401485254,"February 08, 2023",Creighton Bluejays,Seton Hall Pirates,75,62,False,False,
+401485255,"February 08, 2023",Georgetown Hoyas,Providence Friars,62,74,False,False,
+401485256,"February 08, 2023",DePaul Blue Demons,Villanova Wildcats,65,81,False,False,
+401485257,"February 10, 2023",Xavier Musketeers,Butler Bulldogs,67,69,False,False,
+401485258,"February 11, 2023",Marquette Golden Eagles,Georgetown Hoyas,89,75,False,False,
+401485259,"February 11, 2023",Providence Friars,St. John's Red Storm,68,73,False,False,
+401485260,"February 11, 2023",UConn Huskies,Creighton Bluejays,53,56,False,False,
+401485261,"February 11, 2023",Seton Hall Pirates,Villanova Wildcats,54,58,False,False,
+401485264,"February 14, 2023",Georgetown Hoyas,Seton Hall Pirates,68,76,False,False,
+401485262,"February 14, 2023",Creighton Bluejays,Providence Friars,86,94,False,False,
+401485265,"February 14, 2023",Butler Bulldogs,Villanova Wildcats,50,62,False,False,
+401485263,"February 14, 2023",St. John's Red Storm,DePaul Blue Demons,92,83,False,False,
+401485266,"February 15, 2023",Xavier Musketeers,Marquette Golden Eagles,68,69,False,False,
+401485268,"February 18, 2023",Seton Hall Pirates,UConn Huskies,55,64,False,False,
+401485267,"February 18, 2023",DePaul Blue Demons,Xavier Musketeers,68,82,False,False,
+401485269,"February 18, 2023",Villanova Wildcats,Providence Friars,72,85,False,False,
+401485270,"February 18, 2023",Creighton Bluejays,St. John's Red Storm,77,67,False,False,
+401485271,"February 19, 2023",Georgetown Hoyas,Butler Bulldogs,68,62,False,False,
+401485272,"February 21, 2023",Villanova Wildcats,Xavier Musketeers,64,63,False,False,
+401485273,"February 21, 2023",Marquette Golden Eagles,Creighton Bluejays,73,71,False,False,
+401485274,"February 22, 2023",Providence Friars,UConn Huskies,69,87,False,False,
+401485275,"February 22, 2023",Butler Bulldogs,DePaul Blue Demons,59,58,False,False,
+401485276,"February 22, 2023",St. John's Red Storm,Georgetown Hoyas,79,70,False,False,
+401485277,"February 24, 2023",Xavier Musketeers,Seton Hall Pirates,82,60,False,False,
+401485278,"February 25, 2023",Creighton Bluejays,Villanova Wildcats,67,79,False,False,
+401485279,"February 25, 2023",UConn Huskies,St. John's Red Storm,95,86,False,False,
+401485280,"February 25, 2023",DePaul Blue Demons,Marquette Golden Eagles,84,90,False,False,
+401485281,"February 26, 2023",Providence Friars,Georgetown Hoyas,88,68,False,False,
+401485282,"February 28, 2023",Marquette Golden Eagles,Butler Bulldogs,72,56,False,False,
+401485283,"February 28, 2023",Villanova Wildcats,Seton Hall Pirates,76,72,False,False,
+401485284,"March 01, 2023",Xavier Musketeers,Providence Friars,94,89,False,False,
+401485285,"March 01, 2023",DePaul Blue Demons,UConn Huskies,59,88,False,False,
+401485286,"March 01, 2023",Georgetown Hoyas,Creighton Bluejays,59,99,False,False,
+401485289,"March 04, 2023",Seton Hall Pirates,Providence Friars,82,58,False,False,
+401485287,"March 04, 2023",St. John's Red Storm,Marquette Golden Eagles,94,96,False,False,
+401485288,"March 04, 2023",Butler Bulldogs,Xavier Musketeers,66,78,False,False,
+401485291,"March 04, 2023",UConn Huskies,Villanova Wildcats,71,59,False,False,
+401485290,"March 04, 2023",Creighton Bluejays,DePaul Blue Demons,84,70,False,False,
+401514244,"March 08, 2023",Butler Bulldogs,St. John's Red Storm,63,76,False,True,Big East Tournament - 1st Round
+401514245,"March 08, 2023",DePaul Blue Demons,Seton Hall Pirates,66,65,False,True,Big East Tournament - 1st Round
+401514246,"March 08, 2023",Georgetown Hoyas,Villanova Wildcats,48,80,False,True,Big East Tournament - 1st Round
+401514247,"March 09, 2023",St. John's Red Storm,Marquette Golden Eagles,70,72,False,True,Big East Tournament - Quarterfinal
+401514248,"March 09, 2023",Providence Friars,UConn Huskies,66,73,False,True,Big East Tournament - Quarterfinal
+401514249,"March 09, 2023",DePaul Blue Demons,Xavier Musketeers,84,89,False,True,Big East Tournament - Quarterfinal
+401514250,"March 09, 2023",Villanova Wildcats,Creighton Bluejays,74,87,False,True,Big East Tournament - Quarterfinal
+401514251,"March 10, 2023",UConn Huskies,Marquette Golden Eagles,68,70,False,True,Big East Tournament - Semifinal
+401514252,"March 10, 2023",Creighton Bluejays,Xavier Musketeers,60,82,False,True,Big East Tournament - Semifinal
+401514253,"March 11, 2023",Xavier Musketeers,Marquette Golden Eagles,51,65,False,True,Big East Tournament - Final
+401526875,"March 14, 2023",Villanova Wildcats,Liberty Flames,57,62,False,False,NIT - 1st Round
+401526870,"March 14, 2023",Seton Hall Pirates,Colorado Buffaloes,64,65,False,False,NIT - 1st Round
+401522156,"March 17, 2023",Kennesaw State Owls,Xavier Musketeers,67,72,False,True,Men's Basketball Championship - Midwest Region - 1st Round
+401522141,"March 17, 2023",Vermont Catamounts,Marquette Golden Eagles,61,78,False,True,Men's Basketball Championship - East Region - 1st Round
+401522136,"March 17, 2023",Iona Gaels,UConn Huskies,63,87,False,True,Men's Basketball Championship - West Region - 1st Round
+401522172,"March 19, 2023",Saint Mary's Gaels,UConn Huskies,55,70,False,True,Men's Basketball Championship - West Region - 2nd Round
+401522198,"March 24, 2023",Princeton Tigers,Creighton Bluejays,75,86,False,True,Men's Basketball Championship - South Region - Sweet 16
+401522190,"March 25, 2023",UConn Huskies,Gonzaga Bulldogs,82,54,False,True,Men's Basketball Championship - West Region - Elite 8
+401522199,"March 26, 2023",Creighton Bluejays,San Diego State Aztecs,56,57,False,True,Men's Basketball Championship - South Region - Elite 8
+401522202,"April 03, 2023",San Diego State Aztecs,UConn Huskies,59,76,False,True,Men's Basketball Championship - National Championship
